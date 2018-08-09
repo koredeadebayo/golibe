@@ -1,6 +1,6 @@
 <?php include("include/header.php"); ?>
 
-	<body class="homepage3 default-header-p">		
+	<body class="homepage3 default-header-p">
 		<!-- backtotop - start -->
 		<div id="thetop" class="thetop"></div>
 		<div class='backtotop'>
@@ -30,7 +30,7 @@
 						<div class="col-lg-3">
 							<div class="site-logo-wrapper">
 								<a href="index-1.html" class="logo">
-									<img src="assets/images/0.site-logo.png" alt="logo_not_found">
+									<img src="assets/images/GOLIBE-LOGO.png" alt="Golibe logo_not_found" style="height:80px">
 								</a>
 							</div>
 						</div>
@@ -54,7 +54,7 @@
 												<li class="menu-item-has-children">
 													<a href="#!">events</a>
 												</li>
-												
+
 												<li>
 													<a href="#">gallery</a>
 												</li>
@@ -64,8 +64,8 @@
 												<li class="menu-item-has-children">
 													<a href="#!">Our Team</a>
 												</li>
-												
-												
+
+
 												<li class="menu-item-has-children">
 													<a href="#!">contact</a>
 												</li>
@@ -75,7 +75,7 @@
 									<!-- menu-item-list - end -->
 
 									<!-- menu-item-list - start -->
-									
+
 									<!-- menu-item-list - end -->
 
 								</div>
@@ -102,7 +102,7 @@
 			<div class="container">
 				<div class="logo-area float-left">
 					<a href="index-1.html">
-						<img src="assets/images/1.site-logo.png" alt="logo_not_found">
+						<img src="assets/images/GOLIBE-LOGO.png" alt="Golibe logo_not_found" style="height:80px">
 					</a>
 				</div>
 
@@ -143,7 +143,7 @@
 									Home
 								</a>
 							</li>
-							
+
 						</ul>
 					</div>
 					<!-- main-pages-links - end -->
@@ -157,15 +157,15 @@
 									About
 								</a>
 							</li>
-							
-							
+
+
 							<li>
 								<a href="#">
 									<span class="icon"><i class="fas fa-home"></i></span>
 									Events
 								</a>
 							</li>
-							
+
 							<li>
 								<a href="#">
 									<span class="icon"><i class="fas fa-home"></i></span>
@@ -190,12 +190,12 @@
 									Contact
 								</a>
 							</li>
-							
+
 						</ul>
 					</div>
 					<!-- other-pages-links - end -->
 
-					
+
 					<!-- inner-pages-links - end -->
 
 					<!-- login-btn-group - start -->
@@ -354,7 +354,7 @@
 									</div>
 								</div>
 							</li>
-							
+
 						</ul>
 					</div>
 					<!-- login-btn-group - end -->
@@ -363,7 +363,7 @@
 					<div class="social-links">
 						<h2 class="menu-title">get in touch</h2>
 						<div class="mb-15">
-							
+
 							<h3 class="contact-info">
 								<i class="fas fa-envelope"></i>
 								info@golibefestival.com
@@ -406,11 +406,7 @@
 		================================================== -->
 		<section id="main-carousel2" class="main-carousel2 clearfix">
 
-			
-
-			
-
-			<div class="item" style="background-image: url(assets/images/slider/slider-bg9.jpg);">
+			<div class="item" style="background-image: url(assets/images/slider/funfair-img1.jpg);">
 				<div class="overlay-black">
 					<div class="container">
 						<div class="row">
@@ -428,11 +424,35 @@
 								</div>
 							</div>
 							<!-- slider-content - end -->
-							
+
 						</div>
 					</div>
 				</div>
 			</div>
+
+			<div class="item" style="background-image: url(assets/images/slider/mask-funfair.jpg);">
+							<div class="overlay-black">
+								<div class="container">
+									<div class="row">
+
+										<!-- slider-content - start -->
+										<div class="col-lg-8">
+											<div class="slider-content">
+												<div class="countdown-timer mb-30">
+													<ul class="countdown-list" data-countdown="2018/12/24"></ul>
+												</div>
+												<span class="date">24 december 2018</span>
+												<strong class="bold-text">GOLIBE FESTIVAL</strong>
+												<a href="#!" class="custom-btn">About us</a>
+												<a href="#!" class="details-btn">Venues</a>
+											</div>
+										</div>
+										<!-- slider-content - end -->
+
+									</div>
+								</div>
+							</div>
+						</div>
 
 		</section>
 		<!-- slide-section - end
@@ -444,8 +464,8 @@
 
 		<!-- absolute-eventmake-section - start
 		================================================== -->
-		
-	
+
+
 
 
 
@@ -533,7 +553,7 @@
 								<small class="sub-title">Golibe Carnival</small>
 							</a>
 						</li>
-						
+
 						<li>
 							<a href="#!">
 								<span class="icon">
@@ -559,7 +579,7 @@
 
 		<!-- upcomming-event-section2 - start
 		================================================== -->
-		
+
 		<!-- upcomming-event-section2 - end
 		================================================== -->
 
@@ -574,7 +594,7 @@
 				</div>
 				<!-- section-title - end -->
 
-				
+
 
 				<div class="grid zoom-gallery clearfix mb-80" data-isotope="{ &quot;masonry&quot;: { &quot;columnWidth&quot;: 0 } }">
 				<div class="grid-item grid-item--height2 photo-gallery " data-category="photo-gallery">
@@ -661,17 +681,3 @@
 		<!-- event-gallery-section - end
 		================================================== -->
 		<?php include("include/footer.php"); ?>
-
-
-
-
-
-		
-
-
-
-
-		
-
-
-

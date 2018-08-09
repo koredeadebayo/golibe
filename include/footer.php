@@ -4,7 +4,7 @@
 		<footer id="footer-section" class="footer-section default-footer-section clearfix">
 
 			<!-- footer-top - start -->
-			
+
 			<!-- footer-top - end -->
 
 			<div class="footer-bottom">
@@ -21,7 +21,7 @@
 						</div>
 						<!-- copyright-text - end -->
 
-						
+
 					</div>
 				</div>
 			</div>
@@ -46,7 +46,8 @@
 
 		<!-- carousel jquery include -->
 		<script src="assets/js/slick.min.js"></script>
-		<script src="assets/js/owl.carousel.min.js"></script>
+		<!--<script src="assets/js/owl.carousel.min.js"></script>-->
+		<script src="assets/OwlCarousel/dist/owl.carousel.min.js"></script>
 
 		<!-- map jquery include -->
 		<script src="assets/js/gmap3.min.js"></script>

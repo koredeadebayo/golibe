@@ -40,7 +40,7 @@
 
 
 
-  
+
   // preloader - start
   // --------------------------------------------------
   $(window).on('load', function(){
@@ -87,7 +87,7 @@
 
 
 
-  
+
   // gallery popup - start
   // --------------------------------------------------
   $('.zoom-gallery').magnificPopup({
@@ -120,7 +120,7 @@
 
 
 
-  
+
   // altranative menu - start
   // --------------------------------------------------
   $(document).ready(function () {
@@ -144,7 +144,7 @@
 
 
 
-  
+
   // search box - start
   // --------------------------------------------------
   $('.toggle-overlay').on('click', function() {
@@ -156,7 +156,7 @@
 
 
 
-  
+
   // parallax - start
   // --------------------------------------------------
   $('.jarallax').jarallax({
@@ -168,7 +168,7 @@
 
 
 
-  
+
   // popup register & login modal - start
   // --------------------------------------------------
   $(function () {
@@ -189,7 +189,7 @@
 
 
 
-  
+
   // header-section - Start
   // --------------------------------------------------
   var mainHeader = $('.auto-hide-header'),
@@ -221,7 +221,7 @@
     function autoHideHeader() {
       var currentTop = $(window).scrollTop();
 
-      ( belowNavHeroContent.length > 0 ) 
+      ( belowNavHeroContent.length > 0 )
       ? checkStickyNavigation(currentTop) // secondary navigation below intro
       : checkSimpleNavigation(currentTop);
 
@@ -243,9 +243,9 @@
     function checkStickyNavigation(currentTop) {
     //secondary nav below intro section - sticky secondary nav
     var secondaryNavOffsetTop = belowNavHeroContent.offset().top - secondaryNavigation.height() - mainHeader.height();
-    
+
     if (previousTop >= currentTop ) {
-        //if scrolling up... 
+        //if scrolling up...
         if( currentTop < secondaryNavOffsetTop ) {
           //secondary nav is not fixed
           mainHeader.removeClass('is-hidden');
@@ -254,19 +254,19 @@
         } else if( previousTop - currentTop > scrollDelta ) {
           //secondary nav is fixed
           mainHeader.removeClass('is-hidden');
-          secondaryNavigation.removeClass('slide-up').addClass('fixed'); 
+          secondaryNavigation.removeClass('slide-up').addClass('fixed');
           belowNavHeroContent.addClass('secondary-nav-fixed');
         }
-        
+
       } else {
-        //if scrolling down...  
+        //if scrolling down...
         if( currentTop > secondaryNavOffsetTop + scrollOffset ) {
           //hide primary nav
           mainHeader.addClass('is-hidden');
           secondaryNavigation.addClass('fixed slide-up');
           belowNavHeroContent.addClass('secondary-nav-fixed');
         } else if( currentTop > secondaryNavOffsetTop ) {
-          //once the secondary nav is fixed, do not hide primary nav if you haven't scrolled more than scrollOffset 
+          //once the secondary nav is fixed, do not hide primary nav if you haven't scrolled more than scrollOffset
           mainHeader.removeClass('is-hidden');
           secondaryNavigation.addClass('fixed').removeClass('slide-up');
           belowNavHeroContent.addClass('secondary-nav-fixed');
@@ -280,7 +280,7 @@
 
 
 
-  
+
   // sticky menu - start
   // --------------------------------------------------
   var headerId = $(".sticky-header-section , .scrolltop-fixed-header-section");
@@ -299,8 +299,12 @@
 
 
 
+  $(document).ready(function(){
+    //$(".owl-carousel").owlCarousel({
 
-  
+    //});
+  });
+
   // index-1 - main-carousel1 - start
   // --------------------------------------------------
   $('#main-carousel1').owlCarousel({
@@ -328,7 +332,7 @@
 
 
 
-  
+
   // index-2 - main-carousel2 - start
   // --------------------------------------------------
   $('#main-carousel2').slick({
@@ -348,7 +352,7 @@
 
 
 
-  
+
   // upcomming-event-carousel - main-slider - start
   // --------------------------------------------------
   $('#upcomming-event-carousel').owlCarousel({
@@ -390,7 +394,7 @@
 
 
 
-  
+
   // event-expertise-carousel - start
   // --------------------------------------------------
   $('#event-expertise-carousel').owlCarousel({
@@ -425,7 +429,7 @@
 
 
 
-  
+
   // speaker section - carousel - start
   // --------------------------------------------------
   $(".slider-for").slick({
@@ -459,7 +463,7 @@
 
 
 
-  
+
   // partners-carousel - start
   // --------------------------------------------------
   $('#partners-carousel').owlCarousel({
@@ -477,7 +481,7 @@
 
 
 
-  
+
   // partners-carousel - start
   // --------------------------------------------------
   $('#clients-testimonial-carousel').owlCarousel({
@@ -497,7 +501,7 @@
 
 
 
-  
+
   // event-details-carousel - start
   // --------------------------------------------------
   $('#event-details-carousel').owlCarousel({
@@ -512,7 +516,7 @@
 
 
 
-  
+
   // event-details-carousel - start
   // --------------------------------------------------
   $('#testimonial5-carousel').owlCarousel({
@@ -532,7 +536,7 @@
 
 
 
-  
+
   // management-service-carousel --> home 4 - start
   // --------------------------------------------------
   $('#management-service-carousel').owlCarousel({
@@ -568,7 +572,7 @@
 
 
 
-  
+
   // gallery masonry - start
   // --------------------------------------------------
   // init Isotope
@@ -629,7 +633,7 @@
 
   // google map - start
   // --------------------------------------------------
-  function isMobile() { 
+  function isMobile() {
     return ('ontouchstart' in document.documentElement);
   }
 
@@ -748,5 +752,5 @@
 
 
 
-  
+
 })(jQuery);

@@ -21,8 +21,12 @@
 		<link rel="stylesheet" type="text/css" href="assets/css/slick.css">
 		<link rel="stylesheet" type="text/css" href="assets/css/slick-theme.css">
 		<link rel="stylesheet" type="text/css" href="assets/css/animate.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/owl.carousel.min.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/owl.theme.default.min.css">
+		<!--<link rel="stylesheet" type="text/css" href="assets/css/owl.carousel.min.css">
+		<link rel="stylesheet" type="text/css" href="assets/css/owl.theme.default.min.css">-->
+
+		<link rel="stylesheet" type="text/css" href="assets/owlCarousel/dist/assets/owl.carousel.min.css">
+		<link rel="stylesheet" type="text/css" href="assets/owlCarousel/dist/assets/owl.theme.default.min.css">
+
 
 		<!-- others css include -->
 		<link rel="stylesheet" type="text/css" href="assets/css/magnific-popup.css">
@@ -34,6 +38,6 @@
 
 		<!-- custom css include -->
 		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
-		
+
 
 	</head>
