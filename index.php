@@ -1,51 +1,6 @@
+<?php include("include/header.php"); ?>
 
-<!DOCTYPE html>
-<html lang="en">
-
-	<head>
-
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<meta http-equiv="x-ua-compatible" content="ie=edge">
-
-		<title>GOLIBE FESTIVAL</title>
-		<link rel="shortcut icon" href="assets/images/favicon.png">
-
-		<!-- fraimwork - css include -->
-		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
-
-		<!-- icon css include -->
-		<link rel="stylesheet" type="text/css" href="assets/css/fontawesome-all.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/flaticon.css">
-
-		<!-- carousel css include -->
-		<link rel="stylesheet" type="text/css" href="assets/css/slick.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/slick-theme.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/animate.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/owl.carousel.min.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/owl.theme.default.min.css">
-
-		<!-- others css include -->
-		<link rel="stylesheet" type="text/css" href="assets/css/magnific-popup.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/jquery.mCustomScrollbar.min.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/calendar.css">
-
-		<!-- color switcher css include -->
-		<link id="color_theme" rel="stylesheet" type="text/css" href="assets/css/colors/default.css">
-
-		<!-- custom css include -->
-		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
-		
-
-	</head>
-
-
-	<body class="homepage3 default-header-p">
-
-
-
-
-		
+	<body class="homepage3 default-header-p">		
 		<!-- backtotop - start -->
 		<div id="thetop" class="thetop"></div>
 		<div class='backtotop'>
@@ -892,6 +847,7 @@
 		</section>
 		<!-- event-gallery-section - end
 		================================================== -->
+		<?php include("include/header.php"); ?>
 
 
 
@@ -906,81 +862,3 @@
 
 
 
-
-		<!-- default-footer-section - start
-		================================================== -->
-		<footer id="footer-section" class="footer-section default-footer-section clearfix">
-
-			<!-- footer-top - start -->
-			
-			<!-- footer-top - end -->
-
-			<div class="footer-bottom">
-				<div class="container">
-					<div class="row">
-
-						<!-- copyright-text - start -->
-						<div class="col-lg-7 col-md-12 col-sm-12">
-							<div class="copyright-text">
-								<p class="m-0"> <font color="#ffc107">©2018 <a href="#!" class="site-link"> golibefestival.com</a> all right reserved. </font> <i class="fas fa-heart"></i> <a href="http://golibefestival.com" class="author-link"><strong>Golibe Festival</strong></a></p>
-
-							</div>
-
-						</div>
-						<!-- copyright-text - end -->
-
-						
-					</div>
-				</div>
-			</div>
-
-		</footer>
-		<!-- default-footer-section - end
-		================================================== -->
-
-
-
-
-
-
-
-
-
-
-		<!-- fraimwork - jquery include -->
-		<script src="assets/js/jquery-3.3.1.min.js"></script>
-		<script src="assets/js/popper.min.js"></script>
-		<script src="assets/js/bootstrap.min.js"></script>
-
-		<!-- carousel jquery include -->
-		<script src="assets/js/slick.min.js"></script>
-		<script src="assets/js/owl.carousel.min.js"></script>
-
-		<!-- map jquery include -->
-		<script src="assets/js/gmap3.min.js"></script>
-
-		<!-- calendar jquery include -->
-		<script src="assets/js/atc.min.js"></script>
-
-		<!-- others jquery include -->
-		<script src="assets/js/jquery.magnific-popup.min.js"></script>
-		<script src="assets/js/isotope.pkgd.min.js"></script>
-		<script src="assets/js/jarallax.min.js"></script>
-		<script src="assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
-
-		<!-- gallery img loaded - jqury include -->
-		<script src="assets/js/imagesloaded.pkgd.min.js"></script>
-
-		<!-- multy count down - jqury include -->
-		<script src="assets/js/jquery.countdown.js"></script>
-
-
-		<!-- custom jquery include -->
-		<script src="assets/js/custom.js"></script>
-
-
-
-
-
-	</body>
-</html>
