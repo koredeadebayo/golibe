@@ -419,8 +419,8 @@
 									</div>
 									<span class="date">24 december 2018</span>
 									<strong class="bold-text">GOLIBE FESTIVAL</strong>
-									<a href="#!" class="custom-btn">booking ticket</a>
-									<a href="#!" class="details-btn">event details</a>
+									<a href="#!" class="custom-btn">About Golibe</a>
+									<a href="#!" class="details-btn">events</a>
 								</div>
 							</div>
 							<!-- slider-content - end -->
@@ -525,6 +525,15 @@
 								<small class="sub-title">great packages for your kids</small>
 							</a>
 						</li>
+						<li>
+							<a href="#!">
+								<span class="icon">
+									<img src="assets/images/icons/art-expo.png">
+								</span>
+								<strong class="title-text">Art Exhibition</strong>	
+							</a>
+						</li>
+
 
 						<li>
 							<a href="#!">
@@ -541,7 +550,8 @@
 								<span class="icon">
 									<img src="assets/images/icons/theater.png">
 								</span>
-								<strong class="title-text">Golibe The Musical</strong>
+								<strong class="title-text">Onitsha Ancient and Modern</strong>
+								<small class="sub-title">Theatre Production</small>
 							</a>
 						</li>
 						<li>
@@ -549,7 +559,7 @@
 								<span class="icon">
 								 <img src="assets/images/icons/carniva.svg">
 								</span>
-								<strong class="title-text">The Heritage Pride</strong>
+								<strong class="title-text">Golibe Street Fiesta</strong>
 								<small class="sub-title">Golibe Carnival</small>
 							</a>
 						</li>
@@ -563,7 +573,7 @@
 								<small class="sub-title">Music Performance</small>
 							</a>
 						</li>
-
+						
 					</ul>
 				</div>
 
