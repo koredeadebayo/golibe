@@ -8232,3 +8232,36 @@ ul.social{
   display: inline;
   font-size: 35px;
 }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+/*====================
+Event -Unity Match
+===================== */
+.titleheader2{
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
+.background-event h2{
+  font-weight: bold;
+}
+.about-event{
+  font-size: 25px;
+  color: black;
+}
+ul.about-info li{
+  list-style-type: none !important;
+  float: left;
+  display: block;
+  font-size: 25px;
+  font-weight: bold;
+}
+span.date-r{
+  padding-left: 50px;
+}
+=======
+/*>>>>>>> c2faa138bf4db58d909be8a1fc699266fdb76171
+*/
+>>>>>>> 083a7ea510a4923b75b1b58a7dc3dd82c2c07e74
+>>>>>>> dbd5db96af39f597e021e2579b876a411ac05ba9

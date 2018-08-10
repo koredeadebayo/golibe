@@ -25,33 +25,28 @@
 		<link id="color_theme" rel="stylesheet" type="text/css" href="assets/css/colors/default.css">
 
 		<!-- custom css include -->
-		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
-               
-                
-
-
-
-
-
-
-
-
-
-		
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css"		
 </head>
-<body>
+
+<body style="background-image: url(assets/images/LandBrg.jpg)">
 
 <div class="container">
 <div class="row">
 <div class="col-lg4" id="logo" style="margin-top: 50px">
         <span><img src="assets\images\GOLIBE-LOGO.png" width="300" height="450" ></span>
 </div>
-<center>  
-<div class="col-lg8" style="margin: 100px">
+<center> 
+<style>
+	.countBrg{
+		background: "black";
+	}
+</style>
+<div> 
+<div class="col-lg8" style="margin: 100px" style="color: white " >
     <div class="countdown-timer mb-30">
         <ul class="countdown-list" data-countdown = "2018/12/31">
         <li class="timer-item days">
-        <strong id="day">00</strong><small>days</small>
+        <strong id="day" style:"color:orange !important">00</strong><small>days</small>
         </li>
         <li class="timer-item hours">
         <strong id="hrs">00</strong><small>hours</small>
@@ -64,26 +59,27 @@
         </li>
     </ul>
     </div>
+	</div>
         <center>
-                <div class="title">
+                <div class="title" >
                         <h1>WELOCOME<h1>
                         <h1>TO</h1>
                         <h1>THE GOLIBE FETIVAL</h1>
                 </div>
-                <input type="button" value="Process to Site" class="btn btn-info">
+                <input type="button" value="Process to Site" class="custom-btn">
         </center>
         </div>
         </center>   
 </div>
 
 </div>
-<footer id="footer-section" class="footer" style = "background-color: white">
+<footer id="footer-section" style = "background: transparent" >
 
 			<!-- footer-top - start -->
 
 			<!-- footer-top - end -->
 
-			<div class="footer-bottom">
+			<div class="" style="margin-top: 100px">
 				<div class="container">
 					<div class="row">
 
@@ -95,17 +91,14 @@
 							<!-- </div> -->
                                                         
                                                         <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                                                        <span>
-                                                                <a href="#" target="_blank"><img src="https://png.icons8.com/metro/1600/linkedin.png" alt="Linkedin" width=60 height=60 class="text-center"/></a>
+                                                                <span>
+                                                                <a href="#" target="_blank"><img src="assets\images\icons8-twitter-64.png" alt="twitter" width=40 height=40 class="text-center"/></a>
                                                                 </span>
                                                                 <span>
-                                                                <a href="#" target="_blank"><img src="https://png.icons8.com/metro/1600/twitter.png" alt="twitter" width=60 height=60 class="text-center"/></a>
+                                                                <a href="#" target="_blank"><img src="assets\images\icons8-instagram-64.png" alt="instagram" width=40 height=40 class="text-center"/></a>
                                                                 </span>
                                                                 <span>
-                                                                <a href="#" target="_blank"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" alt="github" width=60 height=60 class="text-center"/></a>
-                                                                </span>
-                                                                <span>
-                                                                <a href="#" target="_blank"><img src="https://png.icons8.com/metro/1600/facebook.png" alt="fBook" width=60 height=60 class="text-center"/></a>
+                                                                <a href="#" target="_blank"><img src="assets\images\icons8-facebook-64.png" alt="fBook" width=40 height=40 class="text-center"/></a>
                                                         </span>         
                                                         </div>
                                                         
