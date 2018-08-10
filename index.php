@@ -54,7 +54,6 @@
 												<li class="menu-item-has-children">
 													<a href="#!">events</a>
 												</li>
-
 												<li>
 													<a href="#">gallery</a>
 												</li>
@@ -79,7 +78,7 @@
 									<!-- menu-item-list - end -->
 									<div>
 
-									</div?
+									</div>
 								</div>
 							</div>
 						</div>
@@ -423,7 +422,9 @@
 									<span class="date">24 december 2018</span>
 									<strong class="bold-text">GOLIBE FESTIVAL</strong>
 									<a href="#!" class="custom-btn">About Golibe</a>
-									<a href="#!" class="details-btn">events</a>
+									<a href="#!" class="custom-btn">events</a>
+									<a href="#!" class="custom-btn">venues</a>
+									<a href="#!" class="custom-btn">Transport/Accommodation</a>
 								</div>
 							</div>
 							<!-- slider-content - end -->
@@ -447,7 +448,8 @@
 												<span class="date">24 december 2018</span>
 												<strong class="bold-text">GOLIBE FESTIVAL</strong>
 												<a href="#!" class="custom-btn">About us</a>
-												<a href="#!" class="details-btn">Venues</a>
+												<a href="#!" class="custom-btn">Venues</a>
+												<a href="#!" class="custom-btn">Transport/Accommodation</a>
 											</div>
 										</div>
 										<!-- slider-content - end -->
@@ -487,7 +489,7 @@
 						<div class="col-lg-6 col-md-12 col-sm-12">
 							<div class="section-pragraph text-right">
 								<p>
-									The Golibe Festifal Onitsha is a program of the Onitsha 21st Century Project which seem to leverage our rich cultural heritage to transform Onitsha into a prefered destination for cultural tourism and a hub for modern day commerce and innovation.
+									The Golibe Festival Onitsha is a program of the Onitsha 21st Century Project which targets to leverage our rich cultural heritage to transform Onitsha into a prefered destination for culture, tourism and a hub for modern day commerce and innovation.
 								</p>
 							</div>
 						</div>
@@ -516,7 +518,7 @@
 									<img src="assets/images/icons/choral.png">
 								</span>
 								<strong class="title-text">Onitsha Symphony</strong>
-								<small class="sub-title">you cant miss this</small>
+								<small class="sub-title">you can't miss this</small>
 							</a>
 						</li>
 
