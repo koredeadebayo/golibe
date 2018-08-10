@@ -535,6 +535,22 @@
 								<strong class="title-text">Art Exhibition</strong>		
 							</a>
 						</li>
+						<li>
+							<a href="#!">
+								<span class="icon">
+									<img src="assets/images/icons/art-expo.png">
+								</span>
+								<strong class="title-text">Art Exhibition</strong>		
+							</a>
+						</li>
+						<li>
+							<a href="#!">
+								<span class="icon">
+									<img src="assets/images/icons/art-expo.png">
+								</span>
+								<strong class="title-text">Art Exhibition</strong>		
+							</a>
+						</li>
 
 
 						<li>
@@ -628,8 +644,8 @@
 					</div>
 				</div>
 				<div class="grid-item photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/3.image.jpg">
-						<img src="assets/images/gallery/3.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/26.image.jpg">
+						<img src="assets/images/gallery/26.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
@@ -688,6 +704,10 @@
 					<a href="#!" class="custom-btn">view all gallery</a>
 				</div>
 
+			</div>
+		</section>
+		<section id="about-section2" class="about-section2 sec-ptb-100 bg-gray-light clearfix">
+			<div class="container">
 			</div>
 		</section>
 		<!-- event-gallery-section - end
