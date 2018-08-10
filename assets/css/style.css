@@ -7637,7 +7637,9 @@ button {
   .blog-section .blog-wrapper .tab-content {
     margin-bottom: 80px; }
   .our-management-section .owl-theme .owl-dots button {
-    width: 56px; } }
+    width: 56px; }
+  section#main-carousel2 {
+      top: 10px;  }  }
 
 /* ====================================================================================================
 2 - media screen and (max-width: 991px) - end --->>>for medium device
