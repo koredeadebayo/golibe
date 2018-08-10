@@ -505,6 +505,7 @@
 					</div>
 				</div>
 
+				<h1 class="big-title text-center" ><strong>GOLIBE EVENTS</strong></h1>
 				<div class="services-list">
 					<ul>
 
@@ -618,7 +619,7 @@
 
 				<!-- section-title - start -->
 				<div class="section-title text-center mb-80">
-					<h2 class="big-title">The<img src="assets/images/golibe-logo2.png" title="Golibe Festival" width="100px" height="1000px"><strong>Experience</strong></h2>
+					<h2 class="big-title">The<img src="assets/images/golibe-logo2.png" title="Golibe Festival" width="300px" height="1000px"><strong>Experience</strong></h2>
 				</div>
 				<!-- section-title - end -->
 
@@ -644,8 +645,8 @@
 					</div>
 				</div>
 				<div class="grid-item photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/26.image.jpg">
-						<img src="assets/images/gallery/26.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/10.image.jpg">
+						<img src="assets/images/gallery/10.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
@@ -654,8 +655,8 @@
 				</div>
 
 				<div class="grid-item photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/4.image.jpg">
-						<img src="assets/images/gallery/4.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/16.image.jpg">
+						<img src="assets/images/gallery/16.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
@@ -681,9 +682,18 @@
 						<span>Golibe Festival</span>
 					</div>
 				</div>
-				<div class="grid-item photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/7.image.jpg">
-						<img src="assets/images/gallery/7.image.jpg" alt="Image_not_found">
+				<div class="grid-item grid-item--height2 photo-gallery " data-category="photo-gallery">
+					<a class="popup-link" href="assets/images/gallery/1.image.jpg">
+						<img src="assets/images/gallery/1.image.jpg" alt="Image_not_found">
+					</a>
+					<div class="item-content">
+						<h3>Golibe Experience</h3>
+						<span>Golibe Festival</span>
+					</div>
+				</div>
+				<div class="grid-item photo-gallery "  data-category="photo-gallery">
+					<a class="popup-link" href="assets/images/gallery/3.image.jpg">
+						<img src="assets/images/gallery/3.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
@@ -691,14 +701,26 @@
 					</div>
 				</div>
 				<div class="grid-item photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/8.image.jpg">
-						<img src="assets/images/gallery/8.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/24.image.jpg">
+						<img src="assets/images/gallery/24.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
 						<span>Golibe Festival</span>
 					</div>
 				</div>
+
+				
+				<div class="grid-item grid-item--width2 photo-gallery " data-category="photo-gallery">
+					<a class="popup-link" href="assets/images/gallery/6.image.jpg">
+						<img src="assets/images/gallery/6.image.jpg" alt="Image_not_found">
+					</a>
+					<div class="item-content">
+						<h3>Golibe Experience</h3>
+						<span>Golibe Festival</span>
+					</div>
+				</div>
+
 			</div>
 				<div class="text-center">
 					<a href="#!" class="custom-btn">view all gallery</a>
@@ -706,8 +728,22 @@
 
 			</div>
 		</section>
-		<section id="about-section2" class="about-section2 sec-ptb-100 bg-gray-light clearfix">
+		<section id="sponsor-section2" class="sponsor-section2 bg-gray-light">
 			<div class="container">
+				ujekeekj
+				<div class="main-carousel2 owl-theme">
+					<div class="item"><h1>2</h1></div>
+					<div class="item"><h1>3</h1></div>
+					<div class="item"><h1>4</h1></div>
+					<div class="item"><h1>5</h1></div>
+					<div class="item"><h4>6</h4></div>
+					<div class="item"><h4>7</h4></div>
+					<div class="item"><h4>8</h4></div>
+					<div class="item"><h4>9</h4></div>
+					<div class="item"><h4>10</h4></div>
+					<div class="item"><h4>11</h4></div>
+					<div class="item"><h4>12</h4></div>
+				</div>
 			</div>
 		</section>
 		<!-- event-gallery-section - end
