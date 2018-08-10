@@ -94,7 +94,6 @@
                 <input type="button" value="Process to Site" class="btn btn-info">
         </center>
         </div>
-<<<<<<< HEAD
         </center>   
 </div>
 
@@ -149,7 +148,6 @@
 <div class="row">
     
   </div>
-=======
         </center>
         
         <div class="row">
@@ -168,6 +166,5 @@
 </div>
 
  
->>>>>>> 98311ed9d42f9359fc2dd2da2e2633a8f2c2547e
 </body>
 </html>
