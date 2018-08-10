@@ -11,31 +11,42 @@
 					<div class="row">
 
 						<!-- copyright-text - start -->
-						<div class="col-lg-6 col-md-6 col-sm-12">
-							<img src="assets/images/golibe-logo2.png"></img>
+						<div class="footer-cmp">
+							<img src="assets/images/golibe-3.png"></img>
 						</div>
 						<!-- copyright-text - end -->
 						<!-- copyright-text - start -->
-						<div class="col-lg-6 col-md-6 col-sm-12">
+						<div class="footer-cmp">
 							<div class="copyright-text">
-								<p style="display:inline-block; color:white; font-size:35px">Follow us @</p>
-								<ul class="social">
-									<li class="social-links">
-										<a href="#!"><i class="fab fa-facebook-f"></i></a>
-									</li>
-									<li class="social-links">
-										<a href="#!"><i class="fab fa-twitter"></i></a>
-									</li>
-									<li class="social-links">
-										<a href="#!"><i class="fab fa-twitch"></i></a>
-									</li>
-									<li class="social-links">
-										<a href="#!"><i class="fab fa-google-plus-g"></i></a>
-									</li>
-									<li class="social-links">
-										<a href="#!"><i class="fab fa-instagram"></i></a>
-									</li>
-								</ul>
+								<!-- social-links - start -->
+								<div class="footer-social-links">
+									<h2 class="menu-title">get in touch</h2>
+									<div class="mb-15">
+
+										<h3 class="contact-info">
+											<i class="fas fa-envelope"></i>
+											info@golibefestival.com
+										</h3>
+									</div>
+									<ul>
+										<li class="">
+											<a href="#!"><i class="fab fa-facebook-f"></i></a>
+										</li>
+										<li>
+											<a href="#!"><i class="fab fa-twitter"></i></a>
+										</li>
+										<li>
+											<a href="#!"><i class="fab fa-twitch"></i></a>
+										</li>
+										<li>
+											<a href="#!"><i class="fab fa-google-plus-g"></i></a>
+										</li>
+										<li>
+											<a href="#!"><i class="fab fa-instagram"></i></a>
+										</li>
+									</ul>
+								</div>
+								<!-- social-links - end -->
 							</div>
 
 						</div>
@@ -52,7 +63,7 @@
 					<div class="row">
 
 						<!-- copyright-text - start -->
-						<div class="col-lg-7 col-md-12 col-sm-12">
+						<div class="col">
 							<div class="copyright-text">
 								<p class="m-0"> <font color="#ffc107">©2018 <a href="#!" class="site-link"> golibefestival.com</a> all right reserved. </font> <i class="fas fa-heart"></i> <a href="http://golibefestival.com" class="author-link"><strong>Golibe Festival</strong></a></p>
 
@@ -134,7 +145,7 @@
 				})
 			})
 						//default settings:
-			
+
 		</script>
 
 
