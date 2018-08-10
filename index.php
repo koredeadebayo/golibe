@@ -77,7 +77,9 @@
 									<!-- menu-item-list - start -->
 
 									<!-- menu-item-list - end -->
+									<div>
 
+									</div?
 								</div>
 							</div>
 						</div>
@@ -530,7 +532,7 @@
 								<span class="icon">
 									<img src="assets/images/icons/art-expo.png">
 								</span>
-								<strong class="title-text">Art Exhibition</strong>	
+								<strong class="title-text">Art Exhibition</strong>		
 							</a>
 						</li>
 
