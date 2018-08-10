@@ -8234,9 +8234,6 @@ ul.social{
   display: inline;
   font-size: 35px;
 }
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 /*====================
 Event -Unity Match
 ===================== */
@@ -8262,8 +8259,21 @@ ul.about-info li{
 span.date-r{
   padding-left: 50px;
 }
-=======
-/*>>>>>>> c2faa138bf4db58d909be8a1fc699266fdb76171
-*/
->>>>>>> 083a7ea510a4923b75b1b58a7dc3dd82c2c07e74
->>>>>>> dbd5db96af39f597e021e2579b876a411ac05ba9
+
+
+a.enter-text{
+  padding: 10px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  border-radius: 30px;
+  background: black;
+}
+.social.land>li>a{
+  padding:5px !important;
+  margin-top:20px;
+}
+.social.land{
+  margin:auto;
+  text-align:center;
+}

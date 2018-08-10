@@ -31,52 +31,40 @@
 <body style="background-image: url(assets/images/LandBrg.jpg)">
 
 <div class="container">
-<div class="row">
-<div class="col-lg4" id="logo" style="margin-top: 50px">
-        <span><img src="assets\images\GOLIBE-LOGO.png" width="300" height="450" ></span>
-</div>
-<center> 
-
-
-<div class="col-lg8" style="margin: 100px auto auto 100px">
-    <div class="countdown-timer mb-30">
-        <ul class="countdown-list" data-countdown = "2018/12/31">
-        <li class="timer-item days"urs">
-        <strong id="hrs">00</strong>
-        <strong id="day" style:"color:orange !important">00</strong><small>days</small>
-        </li>
-        <li class="timer-item ho><small>hours</small>
-        </li>
-        <li class="timer-item mins">
-        <strong id="min">00</strong><small>mins</small>
-        </li>
-        <li class="timer-item sec">
-        <strong id="sec">00</strong><small>sec</small>
-        </li>
-    </ul>
-	</div>
-
-	</div>
-        <center>
-                <div class="title" >
-                        <h1>WELOCOME<h1>
-                        <h1>TO</h1>
-                        <h1>THE GOLIBE FETIVAL</h1>
+        <div class="row">
+                <div class="col-lg-4 col-md-8 col-sm-12" id="logo" style="text-align:center" >
+                <div class="countdown-timer mb-30" style="margin-top:20px">
+                        <ul class="countdown-list" data-countdown = "2018/12/31">
+                                <li class="timer-item days">
+                                        <strong id="day" style:"color:orange !important">00</strong><small>days</small>
+                                </li>
+                                <li class="timer-item hours">
+                                        <strong id="hrs">00</strong><small>hours</small>
+                                </li>
+                                <li class="timer-item mins">
+                                        <strong id="min">00</strong><small>mins</small>
+                                </li>
+                                <li class="timer-item sec">
+                                        <strong id="sec">00</strong><small>sec</small>
+                                </li>
+                        </ul>
                 </div>
-                <input type="button" value="Process to Site" class="custom-btn">
-        </center>
+
+                        <img src="assets\images\GOLIBE-LOGO.png" width="80%" height="auto" style="padding:50px; display: block; margin:auto;" />
+                        <a class="enter-text" href="index.php">Proceed to Site >>></a>
+                </div>
+        <div> 
         </div>
-        </center>   
+                
 </div>
 
-</div>
 <footer id="footer-section" style = "background: transparent" >
 
 			<!-- footer-top - start -->
 
 			<!-- footer-top - end -->
 
-			<div class="" style="margin-top: 100px">
+			<div class="" >
 				<div class="container">
 					<div class="row">
 
@@ -87,20 +75,36 @@
 
 							<!-- </div> -->
                                                         
-                                                        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                                                                <span>
-                                                                <a href="#" target="_blank"><img src="assets\images\icons8-twitter-64.png" alt="twitter" width=40 height=40 class="text-center"/></a>
+                                                        <div class="col-xs-6 col-sm-12 col-md-6 col-lg-6">
+                                                                <div class="container">
+                                                                <ul class="social land">
+									<li class="social-links">
+										<a href="#!"><i class="fab fa-facebook-f" style="color:#3B5998; font-size:25px"></i></a>
+									</li>
+									<li class="social-links">
+										<a href="#!" class="padding:0px !important"><i class="fab fa-twitter" style="color:#1DA1F2; font-size:25px"></i></a>
+									</li>
+
+									<li class="social-links">
+										<a href="#!"><i class="fab fa-google-plus-g" style="color:red; font-size:25px"></i></a>
+									</li>
+									<li class="social-links">
+										<a href="#!"><i class="fab fa-instagram" style="color:purple; font-size:25px"></i></a>
+									</li>
+								</ul>
                                                                 </span>
-                                                                <span>
-                                                                <a href="#" target="_blank"><img src="assets\images\icons8-instagram-64.png" alt="instagram" width=40 height=40 class="text-center"/></a>
-                                                                </span>
-                                                                <span>
-                                                                <a href="#" target="_blank"><img src="assets\images\icons8-facebook-64.png" alt="fBook" width=40 height=40 class="text-center"/></a>
-                                                        </span>         
+                                                                </div>         
                                                         </div>
                                                         
-                                                        <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8">
-                                                                
+                                                        <div class="col-xs-6 col-sm-12 col-md-6 col-lg-6">
+                                                                <div class="row">
+                                                                        <div>
+                                                                        </div>
+                                                                        <div>
+                                                                        </div>
+                                                                        <div>
+                                                                        </div>`
+                                                                </div>         
                                                         </div>
                                                         
                                                        
