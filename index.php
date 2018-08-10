@@ -122,11 +122,7 @@
 
 					<div class="sidebar-header">
 						<a href="#!">
-<<<<<<< HEAD
 							<img src="assets/images/golibe-3.png" alt="logo_not_found">
-=======
-							<img src="assets/images/golibe-logo2.png" alt="logo_not_found">
->>>>>>> c2faa138bf4db58d909be8a1fc699266fdb76171
 						</a>
 					</div>
 
@@ -141,7 +137,7 @@
 
 					<!-- main-pages-links - start -->
 					<div class="menu-link-list main-pages-links">
-						<h2 class="menu-title">Menue</h2>
+						<h2 class="menu-title">Menu</h2>
 						<ul>
 							<li>
 								<a href="index-1.html">
@@ -159,7 +155,7 @@
 						<ul>
 							<li>
 								<a href="a#">
-									<span class="icon"><i class="fas fa-home"></i></span>
+									<span class="icon"><i class="fas fa-info-circle"></i></span>
 									About
 								</a>
 							</li>
@@ -167,32 +163,32 @@
 
 							<li>
 								<a href="#">
-									<span class="icon"><i class="fas fa-home"></i></span>
+									<span class="icon"><i class="far fa-calendar-alt"></i></span>
 									Events
 								</a>
 							</li>
 
 							<li>
 								<a href="#">
-									<span class="icon"><i class="fas fa-home"></i></span>
+									<span class="icon"><i class="far fa-images"></i></span>
 									Gallery
 								</a>
 							</li>
 							<li>
 								<a href="#">
-									<span class="icon"><i class="fas fa-home"></i></span>
+									<span class="icon"><i class="far fa-question-circle"></i></span>
 									FAQs
 								</a>
 							</li>
 							<li>
 								<a href="#">
-									<span class="icon"><i class="fas fa-home"></i></span>
+									<span class="icon"><i class="fas fa-users"></i></span>
 									Our Team
 								</a>
 							</li>
 							<li>
 								<a href="#">
-									<span class="icon"><i class="fas fa-home"></i></span>
+									<span class="icon"><i class="far fa-address-card"></i></span>
 									Contact
 								</a>
 							</li>
@@ -204,7 +200,6 @@
 
 					<!-- inner-pages-links - end -->
 
-<<<<<<< HEAD
 					<!-- login-btn-group - start -->
 					<div class="login-btn-group">
 						<ul>
@@ -365,9 +360,7 @@
 						</ul>
 					</div>
 					<!-- login-btn-group - end -->
-=======
 
->>>>>>> c2faa138bf4db58d909be8a1fc699266fdb76171
 
 					<!-- social-links - start -->
 					<div class="social-links">
@@ -380,7 +373,7 @@
 							</h3>
 						</div>
 						<ul>
-							<li class="social-links">
+							<li class="">
 								<a href="#!"><i class="fab fa-facebook-f"></i></a>
 							</li>
 							<li>
@@ -747,7 +740,7 @@
 					<div class="item"><h1>2</h1></div>
 					<div class="item"><h1>3</h1></div>
 					<div class="item"><h1>4</h1></div>
-					<div class="item"><h1>5</h1></div>	
+					<div class="item"><h1>5</h1></div>
 					<div class="item"><h4>6</h4></div>
 					<div class="item"><h4>7</h4></div>
 					<div class="item"><h4>8</h4></div>
