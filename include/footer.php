@@ -33,24 +33,7 @@
 
 
 
-		<script type="text/javascript">
-			$('.owl-carousel').owlCarousel({
-				loop:true,
-				margin:10,
-				nav:true,
-				responsive:{
-					0:{
-						items:1
-					},
-					600:{
-						items:3
-					},
-					1000:{
-						items:5
-					}
-				}
-			})
-		</script>
+
 
 
 
@@ -87,7 +70,32 @@
 
 		<!-- custom jquery include -->
 		<script src="assets/js/custom.js"></script>
-
+		<script>
+			$(document).ready(function() {
+				$('.owl-carousel').owlCarousel({
+					item:12,
+					loop:true,
+					margin:10,
+					nav:true,
+					autoplay:true,
+					autoplayTimeout:2000,
+					autoplayHoverPause:true,
+					responsive:{
+						0:{
+							items:1
+						},
+						600:{
+							items:3
+						},
+						1000:{
+							items:5
+						}
+					}
+				})
+			})
+						//default settings:
+			
+		</script>
 
 
 
