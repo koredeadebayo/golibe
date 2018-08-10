@@ -5,7 +5,47 @@
 
 			<!-- footer-top - start -->
 
-			<!-- footer-top - end -->
+
+			<div class="footer-bottom">
+				<div class="container">
+					<div class="row">
+
+						<!-- copyright-text - start -->
+						<div class="col-lg-6 col-md-6 col-sm-12">
+							<img src="assets/images/golibe-logo2.png"></img>
+						</div>
+						<!-- copyright-text - end -->
+						<!-- copyright-text - start -->
+						<div class="col-lg-6 col-md-6 col-sm-12">
+							<div class="copyright-text">
+								<p style="display:inline-block; color:white; font-size:35px">Follow us @</p>
+								<ul class="social">
+									<li class="social-links">
+										<a href="#!"><i class="fab fa-facebook-f"></i></a>
+									</li>
+									<li class="social-links">
+										<a href="#!"><i class="fab fa-twitter"></i></a>
+									</li>
+									<li class="social-links">
+										<a href="#!"><i class="fab fa-twitch"></i></a>
+									</li>
+									<li class="social-links">
+										<a href="#!"><i class="fab fa-google-plus-g"></i></a>
+									</li>
+									<li class="social-links">
+										<a href="#!"><i class="fab fa-instagram"></i></a>
+									</li>
+								</ul>
+							</div>
+
+						</div>
+						<!-- copyright-text - end -->
+
+
+					</div>
+				</div>
+			</div>
+						<!-- footer-top - end -->
 
 			<div class="footer-bottom">
 				<div class="container">
@@ -33,24 +73,7 @@
 
 
 
-		<script type="text/javascript">
-			$('.owl-carousel').owlCarousel({
-				loop:true,
-				margin:10,
-				nav:true,
-				responsive:{
-					0:{
-						items:1
-					},
-					600:{
-						items:3
-					},
-					1000:{
-						items:5
-					}
-				}
-			})
-		</script>
+
 
 
 
@@ -87,7 +110,32 @@
 
 		<!-- custom jquery include -->
 		<script src="assets/js/custom.js"></script>
-
+		<script>
+			$(document).ready(function() {
+				$('.owl-carousel').owlCarousel({
+					item:12,
+					loop:true,
+					margin:10,
+					nav:true,
+					autoplay:true,
+					autoplayTimeout:2000,
+					autoplayHoverPause:true,
+					responsive:{
+						0:{
+							items:1
+						},
+						600:{
+							items:3
+						},
+						1000:{
+							items:5
+						}
+					}
+				})
+			})
+						//default settings:
+			
+		</script>
 
 
 

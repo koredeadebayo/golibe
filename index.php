@@ -122,7 +122,11 @@
 
 					<div class="sidebar-header">
 						<a href="#!">
+<<<<<<< HEAD
 							<img src="assets/images/golibe-3.png" alt="logo_not_found">
+=======
+							<img src="assets/images/golibe-logo2.png" alt="logo_not_found">
+>>>>>>> c2faa138bf4db58d909be8a1fc699266fdb76171
 						</a>
 					</div>
 
@@ -200,6 +204,7 @@
 
 					<!-- inner-pages-links - end -->
 
+<<<<<<< HEAD
 					<!-- login-btn-group - start -->
 					<div class="login-btn-group">
 						<ul>
@@ -360,6 +365,9 @@
 						</ul>
 					</div>
 					<!-- login-btn-group - end -->
+=======
+
+>>>>>>> c2faa138bf4db58d909be8a1fc699266fdb76171
 
 					<!-- social-links - start -->
 					<div class="social-links">
@@ -372,7 +380,7 @@
 							</h3>
 						</div>
 						<ul>
-							<li>
+							<li class="social-links">
 								<a href="#!"><i class="fab fa-facebook-f"></i></a>
 							</li>
 							<li>
@@ -728,14 +736,18 @@
 
 			</div>
 		</section>
-		<section id="sponsor-section2" class="sponsor-section2 bg-gray-light">
+		<section id="sponsor-section2" class="sponsor-section2  sec-ptb-100 clearfix">
+			<!-- section-title - start -->
+			<div class="section-title text-center mb-80">
+					<h2 class="big-title"><strong>Our Sponsors</strong></h2>
+				</div>
+				<!-- section-title - end -->
 			<div class="container">
-				ujekeekj
-				<div class="main-carousel2 owl-theme">
+				<div class="owl-carousel owl-theme">
 					<div class="item"><h1>2</h1></div>
 					<div class="item"><h1>3</h1></div>
 					<div class="item"><h1>4</h1></div>
-					<div class="item"><h1>5</h1></div>
+					<div class="item"><h1>5</h1></div>	
 					<div class="item"><h4>6</h4></div>
 					<div class="item"><h4>7</h4></div>
 					<div class="item"><h4>8</h4></div>
