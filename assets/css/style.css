@@ -8121,7 +8121,6 @@ button {
 6 - media screen and (max-width: 320px) - end
 ==================================================================================================== */
 /*=====================================================================================================
-<<<<<<< HEAD
 New Edit by the Crestsage Team*/
 .contact-form .form-item label {
     font-weight: 900;
@@ -8161,6 +8160,62 @@ New Edit by the Crestsage Team*/
 .sidebar-menu-wrapper .sidebar .social-links ul li {
     font-size: 14px;
 }
+.footer-social-links ul {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.footer-social-links ul li {
+    float: left;
+}
+.footer-social-links ul:after {
+    display: table;
+    content: "";
+    clear:  both;
+}
+.footer-social-links ul li a {
+    padding: 20px;
+}
+
+.footer-social-links h2.menu-title {
+    font-weight: 900;
+    color: #fff;
+    font-size: 18px;
+    text-transform: capitalize;
+    font-family: "Roboto", sans-serif;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.footer-social-links .contact-info {
+    font-weight: normal;
+    color: #fff;
+    font-size: 14px;
+    text-transform: none;
+    font-family: "Roboto", sans-serif;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+.footer-bottom .footer-cmp {
+    width: 100%;
+    text-align:  center;
+}
+
+.footer-bottom .footer-cmp .footer-social-links ul {
+    padding: 0px;
+}
+
+.footer-bottom .footer-cmp .footer-social-links .contact-info {
+    margin-top: 25px;
+}
+
+.footer-bottom .footer-cmp .copyright-text {
+    margin-top: 15px;
+}
+.footer-bottom .copyright-text {
+  text-align: center;}
 /*=======================================================================================================
 =======
 New Edit by the Crestsage Team
@@ -8177,5 +8232,3 @@ ul.social{
   display: inline;
   font-size: 35px;
 }
-/*>>>>>>> c2faa138bf4db58d909be8a1fc699266fdb76171
-*/
