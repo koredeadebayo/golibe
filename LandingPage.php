@@ -150,15 +150,7 @@
   </div>
         </center>
         
-        <div class="row">
-                
-                <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2" id="social">
-                        <span id="facebook"><img src="assets\images\facebook_logo.png" alt="facebook" width="50" height="50"></span>
-                        <span id="twitter"><img src="" alt=""></span>
-                        <span id="instagram"><img src="" alt=""></span>
-                </div>
-                
-        </div>
+       
         
        
 </div>
