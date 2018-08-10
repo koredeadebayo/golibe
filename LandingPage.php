@@ -26,39 +26,18 @@
 
 		<!-- custom css include -->
 		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
-                <script src="assets/js/jquery-3.3.1.min.js"></script>
-		<script src="assets/js/popper.min.js"></script>
-		<script src="assets/js/bootstrap.min.js"></script>
-
-		<!-- carousel jquery include -->
-		<script src="assets/js/slick.min.js"></script>
-		<!--<script src="assets/js/owl.carousel.min.js"></script>-->
-		<script src="assets/OwlCarousel/dist/owl.carousel.min.js"></script>
-
-		<!-- map jquery include -->
-		<script src="assets/js/gmap3.min.js"></script>
-
-		<!-- calendar jquery include -->
-		<script src="assets/js/atc.min.js"></script>
-
-		<!-- others jquery include -->
-		<script src="assets/js/jquery.magnific-popup.min.js"></script>
-		<script src="assets/js/isotope.pkgd.min.js"></script>
-		<script src="assets/js/jarallax.min.js"></script>
-		<script src="assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
-
-		<!-- gallery img loaded - jqury include -->
-		<script src="assets/js/imagesloaded.pkgd.min.js"></script>
-
-		<!-- multy count down - jqury include -->
-		<script src="assets/js/jquery.countdown.js"></script>
-
-
-		<!-- custom jquery include -->
-		<script src="assets/js/custom.js"></script>
+               
+                
 
 
 
+
+
+
+
+
+
+		
 </head>
 <body>
 
@@ -70,7 +49,7 @@
 <center>  
 <div class="col-lg8" style="margin: 100px">
     <div class="countdown-timer mb-30">
-        <ul class="countdown-list">
+        <ul class="countdown-list" data-countdown = "2018/12/31">
         <li class="timer-item days">
         <strong id="day">00</strong><small>days</small>
         </li>
@@ -94,7 +73,6 @@
                 <input type="button" value="Process to Site" class="btn btn-info">
         </center>
         </div>
-<<<<<<< HEAD
         </center>   
 </div>
 
@@ -146,21 +124,68 @@
 			</div>
 
 		</footer>
-<div class="row">
-    
-  </div>
-=======
         </center>
-        
-        <div class="row">
-                
-                <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2" id="social">
-                        <span id="facebook"><img src="assets\images\facebook_logo.png" alt="facebook" width="50" height="50"></span>
-                        <span id="twitter"><img src="" alt=""></span>
-                        <span id="instagram"><img src="" alt=""></span>
-                </div>
-                
-        </div>
+        <!-- fraimwork - jquery include -->
+		<script src="assets/js/jquery-3.3.1.min.js"></script>
+		<script src="assets/js/popper.min.js"></script>
+		<script src="assets/js/bootstrap.min.js"></script>
+
+		<!-- carousel jquery include -->
+		<script src="assets/js/slick.min.js"></script>
+		<!--<script src="assets/js/owl.carousel.min.js"></script>-->
+		<script src="assets/OwlCarousel/dist/owl.carousel.min.js"></script>
+
+		<!-- map jquery include -->
+		<script src="assets/js/gmap3.min.js"></script>
+
+		<!-- calendar jquery include -->
+		<script src="assets/js/atc.min.js"></script>
+
+		<!-- others jquery include -->
+		<script src="assets/js/jquery.magnific-popup.min.js"></script>
+		<script src="assets/js/isotope.pkgd.min.js"></script>
+		<script src="assets/js/jarallax.min.js"></script>
+		<script src="assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
+
+		<!-- gallery img loaded - jqury include -->
+		<script src="assets/js/imagesloaded.pkgd.min.js"></script>
+
+		<!-- multy count down - jqury include -->
+		<script src="assets/js/jquery.countdown.js"></script>
+
+
+		<!-- custom jquery include -->
+		<script src="assets/js/custom.js"></script>
+		<script>
+			$(document).ready(function() {
+				$('.owl-carousel').owlCarousel({
+					item:12,
+					loop:true,
+					margin:10,
+					nav:true,
+					autoplay:true,
+					autoplayTimeout:2000,
+					autoplayHoverPause:true,
+					responsive:{
+						0:{
+							items:1
+						},
+						600:{
+							items:3
+						},
+						1000:{
+							items:5
+						}
+					}
+				})
+			})
+						//default settings:
+			
+		</script>
+
+
+
+       
         
        
 </div>
@@ -168,6 +193,5 @@
 </div>
 
  
->>>>>>> 98311ed9d42f9359fc2dd2da2e2633a8f2c2547e
 </body>
 </html>
