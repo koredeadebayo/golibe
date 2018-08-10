@@ -8123,5 +8123,15 @@ button {
 /*=====================================================================================================
 New Edit by the Crestsage Team
 =======================================================================================================*/
+.social>li>a{
+  padding:10px !important;
+}
+ul.social{
+  display:inline;
+  list-style: none !important;
+}
 
-
+.social-links{
+  display: inline;
+  font-size: 35px;
+}
