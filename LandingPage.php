@@ -40,7 +40,7 @@
     <div class="countdown-timer mb-30">
         <ul class="countdown-list" data-countdown = "2018/12/31">
         <li class="timer-item days">
-        <strong id="day">00</strong><small>days</small>
+        <strong id="day" style:"color:orange !important">00</strong><small>days</small>
         </li>
         <li class="timer-item hours">
         <strong id="hrs">00</strong><small>hours</small>
