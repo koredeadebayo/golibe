@@ -181,7 +181,7 @@ textarea {
   margin: 0px;
   padding: 0px; }
 
-/* customization of unorder list - start 
+/* customization of unorder list - start
 ================================================== */
 .ul-li ul,
 .ul-li-block ul {
@@ -311,7 +311,7 @@ textarea {
 
 /* pagination setting - end
 ================================================== */
-/* padding - margin setting - start 
+/* padding - margin setting - start
 ================================================== */
 .sec-ptb-100 {
   padding: 100px 0px; }
@@ -7125,7 +7125,7 @@ button {
 
 /* error section - end
 ==================================================================================================== */
-/* ================================================== 
+/* ==================================================
 * Version: 1.0.0
 * css code for responsive layout
 ================================================== */
@@ -8121,6 +8121,48 @@ button {
 6 - media screen and (max-width: 320px) - end
 ==================================================================================================== */
 /*=====================================================================================================
+<<<<<<< HEAD
+New Edit by the Crestsage Team*/
+.contact-form .form-item label {
+    font-weight: 900;
+    color: #333333;
+    font-size: 18px;
+    text-transform: capitalize;
+    font-family: "Roboto", sans-serif;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    display:  block;
+}
+
+.contact-form .form-item input {
+    padding: 10px 7px;
+    width: 100%;
+    /* max-width: 400px; */
+    border: 2px solid #ddd;
+    border-radius:  5px;
+    /* margin-left: 10px; */
+    margin-bottom: 30px;
+}
+
+.contact-form .form-item textarea {
+    background-color:  #fff;
+    background:  #fff;
+    border: 2px solid #ddd;
+    border-radius:  5px;
+}
+
+.contact-form button.custom-btn {
+    margin-top: 20px;
+    padding-left: 50px;
+    padding-right:  50px;
+}
+
+.sidebar-menu-wrapper .sidebar .social-links ul li {
+    font-size: 14px;
+}
+/*=======================================================================================================
+=======
 New Edit by the Crestsage Team
 =======================================================================================================*/
 .social>li>a{
@@ -8135,6 +8177,7 @@ ul.social{
   display: inline;
   font-size: 35px;
 }
+<<<<<<< HEAD
 /*====================
 Event -Unity Match
 ===================== */
@@ -8160,3 +8203,7 @@ ul.about-info li{
 span.date-r{
   padding-left: 50px;
 }
+=======
+/*>>>>>>> c2faa138bf4db58d909be8a1fc699266fdb76171
+*/
+>>>>>>> 083a7ea510a4923b75b1b58a7dc3dd82c2c07e74
