@@ -75,11 +75,11 @@
 
 							<!-- </div> -->
                                                         
-                                                        <div class="col-xs-6 col-sm-12 col-md-6 col-lg-6">
+                                                        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                                                                 <div class="container">
                                                                 <ul class="social land">
 									<li class="social-links">
-										<a href="#!"><i class="fab fa-facebook-f" style="color:#3B5998; font-size:25px"></i></a>
+										<a href="https://facebook.com/Golibe-Festival-175783219797520"><i class="fab fa-facebook-f" style="color:#3B5998; font-size:25px"></i></a>
 									</li>
 									<li class="social-links">
 										<a href="#!" class="padding:0px !important"><i class="fab fa-twitter" style="color:#1DA1F2; font-size:25px"></i></a>
@@ -96,11 +96,13 @@
                                                                 </div>         
                                                         </div>
                                                         
-                                                        <div class="col-xs-6 col-sm-12 col-md-6 col-lg-6">
+                                                        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                                                                 <div class="row">
-                                                                        <div>
+                                                                        <div class="land-brand-logo">
+                                                                                <img src="assets/images/gallery/wme.png"/>
                                                                         </div>
-                                                                        <div>
+                                                                        <div class="land-brand-logo">
+                                                                        <img src="assets/images/gallery/kex.png" width="100%">
                                                                         </div>
                                                                         <div>
                                                                         </div>`

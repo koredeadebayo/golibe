@@ -224,8 +224,8 @@ textarea {
       text-align: center;
       border-radius: 15px;
       display: inline-block;
-      color: #878787;
-      border: 2px solid #878787; }
+      color:#083d77;
+      border: 2px solid orangered; }
       .countdown-timer ul li strong {
         margin: 0px;
         width: 100%;
@@ -8276,4 +8276,9 @@ a.enter-text{
 .social.land{
   margin:auto;
   text-align:center;
+}
+
+.land-brand-logo{
+  width: 100px;
+  padding: 10px;
 }
