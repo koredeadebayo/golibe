@@ -122,7 +122,7 @@
 
 					<div class="sidebar-header">
 						<a href="#!">
-							<img src="assets/images/golibe-logo2.png" alt="logo_not_found">
+							<img src="assets/images/golibe-3.png" alt="logo_not_found">
 						</a>
 					</div>
 
@@ -137,7 +137,7 @@
 
 					<!-- main-pages-links - start -->
 					<div class="menu-link-list main-pages-links">
-						<h2 class="menu-title">Menue</h2>
+						<h2 class="menu-title">Menu</h2>
 						<ul>
 							<li>
 								<a href="index-1.html">
@@ -155,7 +155,7 @@
 						<ul>
 							<li>
 								<a href="a#">
-									<span class="icon"><i class="fas fa-home"></i></span>
+									<span class="icon"><i class="fas fa-info-circle"></i></span>
 									About
 								</a>
 							</li>
@@ -163,32 +163,32 @@
 
 							<li>
 								<a href="#">
-									<span class="icon"><i class="fas fa-home"></i></span>
+									<span class="icon"><i class="far fa-calendar-alt"></i></span>
 									Events
 								</a>
 							</li>
 
 							<li>
 								<a href="#">
-									<span class="icon"><i class="fas fa-home"></i></span>
+									<span class="icon"><i class="far fa-images"></i></span>
 									Gallery
 								</a>
 							</li>
 							<li>
 								<a href="#">
-									<span class="icon"><i class="fas fa-home"></i></span>
+									<span class="icon"><i class="far fa-question-circle"></i></span>
 									FAQs
 								</a>
 							</li>
 							<li>
 								<a href="#">
-									<span class="icon"><i class="fas fa-home"></i></span>
+									<span class="icon"><i class="fas fa-users"></i></span>
 									Our Team
 								</a>
 							</li>
 							<li>
 								<a href="#">
-									<span class="icon"><i class="fas fa-home"></i></span>
+									<span class="icon"><i class="far fa-address-card"></i></span>
 									Contact
 								</a>
 							</li>
@@ -215,7 +215,7 @@
 										<div class="leftside-content">
 											<div class="site-logo-wrapper mb-80">
 												<a href="#!" class="logo">
-													<img src="assets/images/2.site-logo.png" alt="logo_not_found">
+													<img src="assets/images/golibe-3.png" alt="logo_not_found">
 												</a>
 											</div>
 											<div class="register-login-link mb-80">
@@ -291,7 +291,7 @@
 										<div class="leftside-content">
 											<div class="site-logo-wrapper mb-80">
 												<a href="#!" class="logo">
-													<img src="assets/images/2.site-logo.png" alt="logo_not_found">
+													<img src="assets/images/golibe-3.png" alt="logo_not_found">
 												</a>
 											</div>
 											<div class="register-login-link mb-80">
@@ -361,6 +361,7 @@
 					</div>
 					<!-- login-btn-group - end -->
 
+
 					<!-- social-links - start -->
 					<div class="social-links">
 						<h2 class="menu-title">get in touch</h2>
@@ -372,7 +373,7 @@
 							</h3>
 						</div>
 						<ul>
-							<li>
+							<li class="">
 								<a href="#!"><i class="fab fa-facebook-f"></i></a>
 							</li>
 							<li>
@@ -533,7 +534,7 @@
 								<span class="icon">
 									<img src="assets/images/icons/art-expo.png">
 								</span>
-								<strong class="title-text">Art Exhibition</strong>		
+								<strong class="title-text">Art Exhibition</strong>
 							</a>
 						</li>
 						<li>
@@ -541,7 +542,7 @@
 								<span class="icon">
 									<img src="assets/images/icons/art-expo.png">
 								</span>
-								<strong class="title-text">Art Exhibition</strong>		
+								<strong class="title-text">Art Exhibition</strong>
 							</a>
 						</li>
 						<li>
@@ -549,7 +550,7 @@
 								<span class="icon">
 									<img src="assets/images/icons/art-expo.png">
 								</span>
-								<strong class="title-text">Art Exhibition</strong>		
+								<strong class="title-text">Art Exhibition</strong>
 							</a>
 						</li>
 
@@ -592,7 +593,7 @@
 								<small class="sub-title">Music Performance</small>
 							</a>
 						</li>
-						
+
 					</ul>
 				</div>
 
@@ -710,7 +711,7 @@
 					</div>
 				</div>
 
-				
+
 				<div class="grid-item grid-item--width2 photo-gallery " data-category="photo-gallery">
 					<a class="popup-link" href="assets/images/gallery/6.image.jpg">
 						<img src="assets/images/gallery/6.image.jpg" alt="Image_not_found">
@@ -739,7 +740,7 @@
 					<div class="item"><h1>2</h1></div>
 					<div class="item"><h1>3</h1></div>
 					<div class="item"><h1>4</h1></div>
-					<div class="item"><h1>5</h1></div>	
+					<div class="item"><h1>5</h1></div>
 					<div class="item"><h4>6</h4></div>
 					<div class="item"><h4>7</h4></div>
 					<div class="item"><h4>8</h4></div>
@@ -750,6 +751,44 @@
 				</div>
 			</div>
 		</section>
+		<section id="event-gallery-section" class="event-gallery-section sec-ptb-100 clearfix">
+			<div class="container">
+
+				<!-- section-title - start -->
+				<div class="section-title text-center mb-80">
+					<h2 class="big-title">Get In Touch with Us</h2>
+				</div>
+				<!-- section-title - end -->
+				<div class="contact-form mb-50">
+					<form action="#!">
+						<div class="row">
+							<div class="col-md-6">
+								<div class="form-item">
+									<label>Name</label>
+									<input type="name" placeholder="Osita Jude">
+								</div>
+							</div>
+							<div class="col-md-6">
+								<div class="form-item">
+									<label>Email</label>
+									<input type="email" placeholder="jude@gmail.com">
+								</div>
+							</div>
+							<div class="col">
+								<div class="form-item">
+									<label>Your Comments</label>
+									<textarea placeholder="Comments here ..."></textarea>
+								</div>
+							</div>
+						</div>
+						<button type="submit" class="custom-btn">Submit</button>
+					</form>
+				</div>
+
+
+			</div>
+		</section>
+
 		<!-- event-gallery-section - end
 		================================================== -->
 		<?php include("include/footer.php"); ?>
