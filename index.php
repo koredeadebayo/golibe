@@ -646,8 +646,8 @@
 					</div>
 				</div>
 				<div class="grid-item photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/10.image.jpg">
-						<img src="assets/images/gallery/10.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/21.image.jpg">
+						<img src="assets/images/gallery/21.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
@@ -656,8 +656,8 @@
 				</div>
 
 				<div class="grid-item photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/16.image.jpg">
-						<img src="assets/images/gallery/16.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/14.image.jpg">
+						<img src="assets/images/gallery/14.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
@@ -684,8 +684,8 @@
 					</div>
 				</div>
 				<div class="grid-item grid-item--height2 photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/1.image.jpg">
-						<img src="assets/images/gallery/1.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/19.image.jpg">
+						<img src="assets/images/gallery/19.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
@@ -693,8 +693,8 @@
 					</div>
 				</div>
 				<div class="grid-item photo-gallery "  data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/3.image.jpg">
-						<img src="assets/images/gallery/3.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/8.image.jpg">
+						<img src="assets/images/gallery/8.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
@@ -702,8 +702,8 @@
 					</div>
 				</div>
 				<div class="grid-item photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/24.image.jpg">
-						<img src="assets/images/gallery/24.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/wme.png">
+						<img src="assets/images/gallery/wme.png" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
@@ -713,8 +713,8 @@
 
 
 				<div class="grid-item grid-item--width2 photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/6.image.jpg">
-						<img src="assets/images/gallery/6.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/18.image.jpg">
+						<img src="assets/images/gallery/18.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
