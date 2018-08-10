@@ -36,20 +36,16 @@
         <span><img src="assets\images\GOLIBE-LOGO.png" width="300" height="450" ></span>
 </div>
 <center> 
-<style>
-	.countBrg{
-		background: "black";
-	}
-</style>
-<div> 
-<div class="col-lg8" style="margin: 100px" style="color: white " >
+
+
+<div class="col-lg8" style="margin: 100px auto auto 100px">
     <div class="countdown-timer mb-30">
         <ul class="countdown-list" data-countdown = "2018/12/31">
-        <li class="timer-item days">
+        <li class="timer-item days"urs">
+        <strong id="hrs">00</strong>
         <strong id="day" style:"color:orange !important">00</strong><small>days</small>
         </li>
-        <li class="timer-item hours">
-        <strong id="hrs">00</strong><small>hours</small>
+        <li class="timer-item ho><small>hours</small>
         </li>
         <li class="timer-item mins">
         <strong id="min">00</strong><small>mins</small>
@@ -58,7 +54,8 @@
         <strong id="sec">00</strong><small>sec</small>
         </li>
     </ul>
-    </div>
+	</div>
+
 	</div>
         <center>
                 <div class="title" >
