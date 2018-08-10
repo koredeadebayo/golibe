@@ -702,8 +702,8 @@
 					</div>
 				</div>
 				<div class="grid-item photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/wme.png">
-						<img src="assets/images/gallery/wme.png" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/23.image.jpg">
+						<img src="assets/images/gallery/23.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
