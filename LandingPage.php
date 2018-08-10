@@ -62,24 +62,26 @@
 		
 </head>
 <body>
+
+<div class="container">
 <div class="row">
-<div class="col-md4" id="logo">
-        <span><img src="IMG-1044.JPG" width="500" height="650"></span>
+<div class="col-lg4" id="logo" style="margin-top: 50px">
+        <span><img src="assets\images\GOLIBE-LOGO.png" width="300" height="450" ></span>
 </div>
 <center>  
-<div class="col-md8" style="margin-top: 100px">
+<div class="col-lg8" style="margin: 100px">
     <div class="countdown-timer mb-30">
-        <ul class="countdown-list" data-countdown="2018/01/01">
-        <li class="timer-item days" id="day">
+        <ul class="countdown-list">
+        <li class="timer-item days">
         <strong id="day">00</strong><small>days</small>
         </li>
-        <li class="timer-item hours" id="hrs">
+        <li class="timer-item hours">
         <strong id="hrs">00</strong><small>hours</small>
         </li>
-        <li class="timer-item mins" id="min">
+        <li class="timer-item mins">
         <strong id="min">00</strong><small>mins</small>
         </li>
-        <li class="timer-item sec" id="sec">
+        <li class="timer-item sec">
         <strong id="sec">00</strong><small>sec</small>
         </li>
     </ul>
@@ -94,12 +96,22 @@
         </center>
         </div>
         </center>
-        <div id="social" style="float: left">
-                <span id="facebook"><img src="assets\facebook-logo.jpg" alt="facebook" width="20" height="20"></span>
-                <span id="twitter"><img src="" alt=""></span>
-                <span id="instagram"><img src="" alt=""></span>
+        
+        <div class="row">
+                
+                <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2" id="social">
+                        <span id="facebook"><img src="assets\images\facebook_logo.png" alt="facebook" width="50" height="50"></span>
+                        <span id="twitter"><img src="" alt=""></span>
+                        <span id="instagram"><img src="" alt=""></span>
+                </div>
+                
         </div>
+        
+       
 </div>
+
+</div>
+
  
 </body>
 </html>
