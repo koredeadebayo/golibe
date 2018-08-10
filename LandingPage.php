@@ -35,7 +35,13 @@
 <div class="col-lg4" id="logo" style="margin-top: 50px">
         <span><img src="assets\images\GOLIBE-LOGO.png" width="300" height="450" ></span>
 </div>
-<center>  
+<center> 
+<style>
+	.countBrg{
+		background: "black";
+	}
+</style>
+<div> 
 <div class="col-lg8" style="margin: 100px" style="color: white " >
     <div class="countdown-timer mb-30">
         <ul class="countdown-list" data-countdown = "2018/12/31">
@@ -53,13 +59,14 @@
         </li>
     </ul>
     </div>
+	</div>
         <center>
                 <div class="title" >
                         <h1>WELOCOME<h1>
                         <h1>TO</h1>
                         <h1>THE GOLIBE FETIVAL</h1>
                 </div>
-                <input type="button" value="Process to Site" class="btn btn-info">
+                <input type="button" value="Process to Site" class="custom-btn">
         </center>
         </div>
         </center>   
