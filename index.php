@@ -421,10 +421,10 @@
 									</div>
 									<span class="date">24 december 2018</span>
 									<strong class="bold-text">GOLIBE FESTIVAL</strong>
-									<a href="#!" class="custom-btn">About Golibe</a>
-									<a href="#!" class="custom-btn">events</a>
-									<a href="#!" class="custom-btn">venues</a>
-									<a href="#!" class="custom-btn">Transport/Accommodation</a>
+									<a href="#!" class="details-btn">About Golibe</a>
+									<a href="#!" class="details-btn">events</a>
+									<a href="#!" class="details-btn">venues</a>
+									<a href="#!" class="details-btn">Transport/Accommodation</a>
 								</div>
 							</div>
 							<!-- slider-content - end -->
@@ -447,9 +447,9 @@
 												</div>
 												<span class="date">24 december 2018</span>
 												<strong class="bold-text">GOLIBE FESTIVAL</strong>
-												<a href="#!" class="custom-btn">About us</a>
-												<a href="#!" class="custom-btn">Venues</a>
-												<a href="#!" class="custom-btn">Transport/Accommodation</a>
+												<a href="#!" class="details-btn">About us</a>
+												<a href="#!" class="details-btn">Venues</a>
+												<a href="#!" class="details-btn">Transport/Accommodation</a>
 											</div>
 										</div>
 										<!-- slider-content - end -->
