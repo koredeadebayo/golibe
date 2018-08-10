@@ -30,7 +30,7 @@
 						<div class="col-lg-3">
 							<div class="site-logo-wrapper">
 								<a href="index-1.html" class="logo">
-									<img src="assets/images/GOLIBE-LOGO.png" alt="Golibe logo_not_found" style="height:80px">
+									<img src="assets/images/golibe-logo2.png" alt="Golibe logo_not_found" title="Golibe Festival">
 								</a>
 							</div>
 						</div>
@@ -104,7 +104,7 @@
 			<div class="container">
 				<div class="logo-area float-left">
 					<a href="index-1.html">
-						<img src="assets/images/GOLIBE-LOGO.png" alt="Golibe logo_not_found" style="height:80px">
+						<img src="assets/images/golibe-logo2.png" alt="Golibe logo_not_found" title="Golibe Festival">
 					</a>
 				</div>
 
@@ -602,7 +602,7 @@
 
 				<!-- section-title - start -->
 				<div class="section-title text-center mb-80">
-					<h2 class="big-title">The<img src="assets/images/log.jpg" width="100px" height="1000px"><strong>Experience</strong></h2>
+					<h2 class="big-title">The<img src="assets/images/golibe-logo2.png" title="Golibe Festival" width="100px" height="1000px"><strong>Experience</strong></h2>
 				</div>
 				<!-- section-title - end -->
 
