@@ -122,7 +122,7 @@
 
 					<div class="sidebar-header">
 						<a href="#!">
-							<img src="assets/images/2.site-logo.png" alt="logo_not_found">
+							<img src="assets/images/golibe-3.png" alt="logo_not_found">
 						</a>
 					</div>
 
@@ -215,7 +215,7 @@
 										<div class="leftside-content">
 											<div class="site-logo-wrapper mb-80">
 												<a href="#!" class="logo">
-													<img src="assets/images/2.site-logo.png" alt="logo_not_found">
+													<img src="assets/images/golibe-3.png" alt="logo_not_found">
 												</a>
 											</div>
 											<div class="register-login-link mb-80">
@@ -291,7 +291,7 @@
 										<div class="leftside-content">
 											<div class="site-logo-wrapper mb-80">
 												<a href="#!" class="logo">
-													<img src="assets/images/2.site-logo.png" alt="logo_not_found">
+													<img src="assets/images/golibe-3.png" alt="logo_not_found">
 												</a>
 											</div>
 											<div class="register-login-link mb-80">
@@ -533,7 +533,7 @@
 								<span class="icon">
 									<img src="assets/images/icons/art-expo.png">
 								</span>
-								<strong class="title-text">Art Exhibition</strong>		
+								<strong class="title-text">Art Exhibition</strong>
 							</a>
 						</li>
 						<li>
@@ -541,7 +541,7 @@
 								<span class="icon">
 									<img src="assets/images/icons/art-expo.png">
 								</span>
-								<strong class="title-text">Art Exhibition</strong>		
+								<strong class="title-text">Art Exhibition</strong>
 							</a>
 						</li>
 						<li>
@@ -549,7 +549,7 @@
 								<span class="icon">
 									<img src="assets/images/icons/art-expo.png">
 								</span>
-								<strong class="title-text">Art Exhibition</strong>		
+								<strong class="title-text">Art Exhibition</strong>
 							</a>
 						</li>
 
@@ -592,7 +592,7 @@
 								<small class="sub-title">Music Performance</small>
 							</a>
 						</li>
-						
+
 					</ul>
 				</div>
 
@@ -710,7 +710,7 @@
 					</div>
 				</div>
 
-				
+
 				<div class="grid-item grid-item--width2 photo-gallery " data-category="photo-gallery">
 					<a class="popup-link" href="assets/images/gallery/6.image.jpg">
 						<img src="assets/images/gallery/6.image.jpg" alt="Image_not_found">
@@ -746,6 +746,44 @@
 				</div>
 			</div>
 		</section>
+		<section id="event-gallery-section" class="event-gallery-section sec-ptb-100 clearfix">
+			<div class="container">
+
+				<!-- section-title - start -->
+				<div class="section-title text-center mb-80">
+					<h2 class="big-title">Get In Touch with Us</h2>
+				</div>
+				<!-- section-title - end -->
+				<div class="contact-form mb-50">
+					<form action="#!">
+						<div class="row">
+							<div class="col-md-6">
+								<div class="form-item">
+									<label>Name</label>
+									<input type="name" placeholder="Osita Jude">
+								</div>
+							</div>
+							<div class="col-md-6">
+								<div class="form-item">
+									<label>Email</label>
+									<input type="email" placeholder="jude@gmail.com">
+								</div>
+							</div>
+							<div class="col">
+								<div class="form-item">
+									<label>Your Comments</label>
+									<textarea placeholder="Comments here ..."></textarea>
+								</div>
+							</div>
+						</div>
+						<button type="submit" class="custom-btn">Submit</button>
+					</form>
+				</div>
+
+
+			</div>
+		</section>
+
 		<!-- event-gallery-section - end
 		================================================== -->
 		<?php include("include/footer.php"); ?>

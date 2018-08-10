@@ -181,7 +181,7 @@ textarea {
   margin: 0px;
   padding: 0px; }
 
-/* customization of unorder list - start 
+/* customization of unorder list - start
 ================================================== */
 .ul-li ul,
 .ul-li-block ul {
@@ -311,7 +311,7 @@ textarea {
 
 /* pagination setting - end
 ================================================== */
-/* padding - margin setting - start 
+/* padding - margin setting - start
 ================================================== */
 .sec-ptb-100 {
   padding: 100px 0px; }
@@ -7125,7 +7125,7 @@ button {
 
 /* error section - end
 ==================================================================================================== */
-/* ================================================== 
+/* ==================================================
 * Version: 1.0.0
 * css code for responsive layout
 ================================================== */
@@ -8121,7 +8121,39 @@ button {
 6 - media screen and (max-width: 320px) - end
 ==================================================================================================== */
 /*=====================================================================================================
-New Edit by the Crestsage Team
+New Edit by the Crestsage Team*/
+.contact-form .form-item label {
+    font-weight: 900;
+    color: #333333;
+    font-size: 18px;
+    text-transform: capitalize;
+    font-family: "Roboto", sans-serif;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    display:  block;
+}
+
+.contact-form .form-item input {
+    padding: 10px 7px;
+    width: 100%;
+    /* max-width: 400px; */
+    border: 2px solid #ddd;
+    border-radius:  5px;
+    /* margin-left: 10px; */
+    margin-bottom: 30px;
+}
+
+.contact-form .form-item textarea {
+    background-color:  #fff;
+    background:  #fff;
+    border: 2px solid #ddd;
+    border-radius:  5px;
+}
+
+.contact-form button.custom-btn {
+    margin-top: 20px;
+    padding-left: 50px;
+    padding-right:  50px;
+}
 =======================================================================================================*/
-
-
