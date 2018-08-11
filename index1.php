@@ -615,9 +615,7 @@
 		<!-- upcomming-event-section2 - end
 		================================================== -->
 
-		<!-- event-gallery-section - start
-		================================================== -->
-		<section id="event-gallery-section" class="event-gallery-section sec-ptb-100 clearfix">
+	<section id="event-gallery-section" class="event-gallery-section sec-ptb-100 clearfix">
 			<div class="container">
 
 				<!-- section-title - start -->
@@ -630,8 +628,8 @@
 
 				<div class="grid zoom-gallery clearfix mb-80" data-isotope="{ &quot;masonry&quot;: { &quot;columnWidth&quot;: 0 } }">
 				<div class="grid-item grid-item--height2 photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/1.image.jpg">
-						<img src="assets/images/gallery/1.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/a1.jpg">
+						<img src="assets/images/gallery/a1.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
@@ -639,8 +637,8 @@
 					</div>
 				</div>
 				<div class="grid-item grid-item--width2 photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/2.image.jpg">
-						<img src="assets/images/gallery/2.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/a2.jpg">
+						<img src="assets/images/gallery/a2.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
@@ -648,8 +646,8 @@
 					</div>
 				</div>
 				<div class="grid-item photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/21.image.jpg">
-						<img src="assets/images/gallery/21.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/a3.jpg">
+						<img src="assets/images/gallery/a3.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
@@ -658,8 +656,8 @@
 				</div>
 
 				<div class="grid-item photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/14.image.jpg">
-						<img src="assets/images/gallery/14.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/a4.jpg">
+						<img src="assets/images/gallery/a4.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
@@ -667,8 +665,8 @@
 					</div>
 				</div>
 				<div class="grid-item grid-item--width2 photo-gallery " data-category="video-gallery">
-					<a class="popup-link" href="assets/images/gallery/5.image.jpg">
-						<img src="assets/images/gallery/5.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/a5.jpg">
+						<img src="assets/images/gallery/a5.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
@@ -677,8 +675,8 @@
 				</div>
 
 				<div class="grid-item grid-item--width2 photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/6.image.jpg">
-						<img src="assets/images/gallery/6.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/a6.jpg">
+						<img src="assets/images/gallery/a6.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
@@ -686,8 +684,8 @@
 					</div>
 				</div>
 				<div class="grid-item grid-item--height2 photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/19.image.jpg">
-						<img src="assets/images/gallery/19.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/a7.jpg">
+						<img src="assets/images/gallery/a7.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
@@ -695,8 +693,8 @@
 					</div>
 				</div>
 				<div class="grid-item photo-gallery "  data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/8.image.jpg">
-						<img src="assets/images/gallery/8.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/a8.jpg">
+						<img src="assets/images/gallery/a8.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
@@ -704,8 +702,8 @@
 					</div>
 				</div>
 				<div class="grid-item photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/23.image.jpg">
-						<img src="assets/images/gallery/23.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/a9.jpg">
+						<img src="assets/images/gallery/a9.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
@@ -715,14 +713,15 @@
 
 
 				<div class="grid-item grid-item--width2 photo-gallery " data-category="photo-gallery">
-					<a class="popup-link" href="assets/images/gallery/18.image.jpg">
-						<img src="assets/images/gallery/18.image.jpg" alt="Image_not_found">
+					<a class="popup-link" href="assets/images/gallery/a10.jpg">
+						<img src="assets/images/gallery/a10.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
 						<span>Golibe Festival</span>
 					</div>
 				</div>
+			</footer>
 
 			</div>
 				<div class="text-center">
@@ -730,8 +729,7 @@
 				</div>
 
 			</div>
-		</section>
-		<section id="sponsor-section2" class="sponsor-section2  sec-ptb-100 clearfix">
+		</section>		<section id="sponsor-section2" class="sponsor-section2  sec-ptb-100 clearfix">
 			<!-- section-title - start -->
 			<div class="section-title text-center mb-80">
 					<h2 class="big-title"><strong>Our Sponsors</strong></h2>
