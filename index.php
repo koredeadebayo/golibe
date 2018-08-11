@@ -115,8 +115,187 @@
 						<!-- copyright-text - end -->
 
 
+<<<<<<< HEAD
 					</div>
 				</div>
+=======
+		<!-- upcomming-event-section2 - end
+		================================================== -->
+
+		<!-- event-gallery-section - start
+		================================================== -->
+		<section id="event-gallery-section" class="event-gallery-section sec-ptb-100 clearfix">
+			<div class="container">
+
+				<!-- section-title - start -->
+				<div class="section-title text-center mb-80">
+					<h2 class="big-title">The<img src="assets/images/golibe-logo2.png" title="Golibe Festival" width="300px" height="1000px"><strong>Experience</strong></h2>
+				</div>
+				<!-- section-title - end -->
+
+
+
+				<div class="grid zoom-gallery clearfix mb-80" data-isotope="{ &quot;masonry&quot;: { &quot;columnWidth&quot;: 0 } }">
+				<div class="grid-item grid-item--height2 photo-gallery " data-category="photo-gallery">
+					<a class="popup-link" href="assets/images/gallery/a1.jpg">
+						<img src="assets/images/gallery/a1.jpg" alt="Image_not_found">
+					</a>
+					<div class="item-content">
+						<h3>Golibe Experience</h3>
+						<span>Golibe Festival</span>
+					</div>
+				</div>
+				<div class="grid-item grid-item--width2 photo-gallery " data-category="photo-gallery">
+					<a class="popup-link" href="assets/images/gallery/a2.jpg">
+						<img src="assets/images/gallery/a2.jpg" alt="Image_not_found">
+					</a>
+					<div class="item-content">
+						<h3>Golibe Experience</h3>
+						<span>Golibe Festival</span>
+					</div>
+				</div>
+				<div class="grid-item photo-gallery " data-category="photo-gallery">
+					<a class="popup-link" href="assets/images/gallery/a3.jpg">
+						<img src="assets/images/gallery/a3.jpg" alt="Image_not_found">
+					</a>
+					<div class="item-content">
+						<h3>Golibe Experience</h3>
+						<span>Golibe Festival</span>
+					</div>
+				</div>
+
+				<div class="grid-item photo-gallery " data-category="photo-gallery">
+					<a class="popup-link" href="assets/images/gallery/a4.jpg">
+						<img src="assets/images/gallery/a4.jpg" alt="Image_not_found">
+					</a>
+					<div class="item-content">
+						<h3>Golibe Experience</h3>
+						<span>Golibe Festival</span>
+					</div>
+				</div>
+				<div class="grid-item grid-item--width2 photo-gallery " data-category="video-gallery">
+					<a class="popup-link" href="assets/images/gallery/a5.jpg">
+						<img src="assets/images/gallery/a5.jpg" alt="Image_not_found">
+					</a>
+					<div class="item-content">
+						<h3>Golibe Experience</h3>
+						<span>Golibe Festival</span>
+					</div>
+				</div>
+
+				<div class="grid-item grid-item--width2 photo-gallery " data-category="photo-gallery">
+					<a class="popup-link" href="assets/images/gallery/a6.jpg">
+						<img src="assets/images/gallery/a6.jpg" alt="Image_not_found">
+					</a>
+					<div class="item-content">
+						<h3>Golibe Experience</h3>
+						<span>Golibe Festival</span>
+					</div>
+				</div>
+				<div class="grid-item grid-item--height2 photo-gallery " data-category="photo-gallery">
+					<a class="popup-link" href="assets/images/gallery/a7.jpg">
+						<img src="assets/images/gallery/a7.jpg" alt="Image_not_found">
+					</a>
+					<div class="item-content">
+						<h3>Golibe Experience</h3>
+						<span>Golibe Festival</span>
+					</div>
+				</div>
+				<div class="grid-item photo-gallery "  data-category="photo-gallery">
+					<a class="popup-link" href="assets/images/gallery/a8.jpg">
+						<img src="assets/images/gallery/a8.jpg" alt="Image_not_found">
+					</a>
+					<div class="item-content">
+						<h3>Golibe Experience</h3>
+						<span>Golibe Festival</span>
+					</div>
+				</div>
+				<div class="grid-item photo-gallery " data-category="photo-gallery">
+					<a class="popup-link" href="assets/images/gallery/a9.jpg">
+						<img src="assets/images/gallery/a9.jpg" alt="Image_not_found">
+					</a>
+					<div class="item-content">
+						<h3>Golibe Experience</h3>
+						<span>Golibe Festival</span>
+					</div>
+				</div>
+
+
+				<div class="grid-item grid-item--width2 photo-gallery " data-category="photo-gallery">
+					<a class="popup-link" href="assets/images/gallery/a10.jpg">
+						<img src="assets/images/gallery/a10.jpg" alt="Image_not_found">
+					</a>
+					<div class="item-content">
+						<h3>Golibe Experience</h3>
+						<span>Golibe Festival</span>
+					</div>
+				</div>
+
+			</div>
+				<div class="text-center">
+					<a href="#!" class="custom-btn">view all gallery</a>
+				</div>
+
+			</div>
+		</section>
+		<section id="sponsor-section2" class="sponsor-section2  sec-ptb-100 clearfix">
+			<!-- section-title - start -->
+			<div class="section-title text-center mb-80">
+					<h2 class="big-title"><strong>Our Sponsors</strong></h2>
+				</div>
+				<!-- section-title - end -->
+			<div class="container">
+				<div class="owl-carousel owl-theme">
+					<div class="item"><h1>2</h1></div>
+					<div class="item"><h1>3</h1></div>
+					<div class="item"><h1>4</h1></div>
+					<div class="item"><h1>5</h1></div>
+					<div class="item"><h4>6</h4></div>
+					<div class="item"><h4>7</h4></div>
+					<div class="item"><h4>8</h4></div>
+					<div class="item"><h4>9</h4></div>
+					<div class="item"><h4>10</h4></div>
+					<div class="item"><h4>11</h4></div>
+					<div class="item"><h4>12</h4></div>
+				</div>
+			</div>
+		</section>
+		<section id="event-gallery-section" class="event-gallery-section sec-ptb-100 clearfix">
+			<div class="container">
+
+				<!-- section-title - start -->
+				<div class="section-title text-center mb-80">
+					<h2 class="big-title">Get In Touch with Us</h2>
+				</div>
+				<!-- section-title - end -->
+				<div class="contact-form mb-50">
+					<form action="#!">
+						<div class="row">
+							<div class="col-md-6">
+								<div class="form-item">
+									<label>Name</label>
+									<input type="name" placeholder="Osita Jude">
+								</div>
+							</div>
+							<div class="col-md-6">
+								<div class="form-item">
+									<label>Email</label>
+									<input type="email" placeholder="jude@gmail.com">
+								</div>
+							</div>
+							<div class="col">
+								<div class="form-item">
+									<label>Your Comments</label>
+									<textarea placeholder="Comments here ..."></textarea>
+								</div>
+							</div>
+						</div>
+						<button type="submit" class="custom-btn">Submit</button>
+					</form>
+				</div>
+
+
+>>>>>>> 505bd4d98c5ad25e3b9beca9edcc9eeba65a7e7f
 			</div>
 
 		</footer>
