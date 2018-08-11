@@ -99,10 +99,10 @@
                                                         <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                                                                 <div class="row">
                                                                         <div class="land-brand-logo">
-                                                                                <img src="assets/images/gallery/wme.png"/>
+                                                                                <img src="assets/images/Brands/wme.png"/>
                                                                         </div>
                                                                         <div class="land-brand-logo">
-                                                                        <img src="assets/images/gallery/kex.png" width="100%">
+                                                                        <img src="assets/images/Brands/kex.png" width="100%">
                                                                         </div>
                                                                         <div>
                                                                         </div>`
