@@ -124,7 +124,7 @@
 		<script>
 			$(document).ready(function() {
 				$('.owl-carousel').owlCarousel({
-					item:12,
+					item:2,
 					loop:true,
 					margin:10,
 					nav:true,

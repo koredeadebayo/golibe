@@ -34,11 +34,11 @@
         <div class="row">
                 <div class="col-lg-4 col-md-8 col-sm-12" id="logo" style="text-align:center" >
                 <div class="countdown-timer mb-30" style="margin-top:20px">
-                        <ul class="countdown-list" data-countdown = "2018/12/31">
+                        <ul class="countdown-list" data-countdown = "2018/12/31" style="margin:auto;">
                                 <li class="timer-item days">
-                                        <strong id="day" style:"color:orange !important">00</strong><small>days</small>
+                                        <strong id="day" >00</strong><small>days to go</small>
                                 </li>
-                                <li class="timer-item hours">
+                                <!-- <li class="timer-item hours">
                                         <strong id="hrs">00</strong><small>hours</small>
                                 </li>
                                 <li class="timer-item mins">
@@ -46,7 +46,7 @@
                                 </li>
                                 <li class="timer-item sec">
                                         <strong id="sec">00</strong><small>sec</small>
-                                </li>
+                                </li> -->
                         </ul>
                 </div>
 

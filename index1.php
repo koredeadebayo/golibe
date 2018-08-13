@@ -199,166 +199,6 @@
 
 					<!-- inner-pages-links - end -->
 
-					<!-- login-btn-group - start -->
-					<div class="login-btn-group">
-						<ul>
-
-							<li>
-								<a href="#alt-register-modal" class="register-modal-btn">
-									Register
-								</a>
-								<div id="alt-register-modal" class="reglog-modal-wrapper register-modal mfp-hide clearfix" style="background-image: url(assets/images/login-modal-bg.jpg);">
-									<div class="overlay-black clearfix">
-
-										<!-- leftside-content - start -->
-										<div class="leftside-content">
-											<div class="site-logo-wrapper mb-80">
-												<a href="#!" class="logo">
-													<img src="assets/images/golibe-3.png" alt="logo_not_found">
-												</a>
-											</div>
-											<div class="register-login-link mb-80">
-												<ul>
-													<li><a href="#!">Login</a></li>
-													<li class="active"><a href="#!">Register</a></li>
-												</ul>
-											</div>
-											<div class="copyright-text">
-												<p class="m-0">©2018 <a href="#!" class="yellow-color">golibefestival.com</a> all right reserved <i class="fas fa-heart"></i> Golibe Festival </p>
-											</div>
-										</div>
-										<!-- leftside-content - end -->
-
-										<!-- rightside-content - start -->
-										<div class="rightside-content text-center">
-
-											<div class="mb-30">
-												<h2 class="form-title title-large white-color">Account <strong>Register</strong></h2>
-												<span class="form-subtitle white-color">Have an account? <strong>LOGIN NOW</strong></span>
-											</div>
-
-											<div class="login-form text-center mb-50">
-												<form action="#!">
-													<div class="form-item">
-														<input type="email" placeholder="User Name">
-													</div>
-													<div class="form-item">
-														<input type="password" placeholder="Password">
-													</div>
-													<div class="form-item">
-														<input type="email" placeholder="Repeat Password">
-													</div>
-													<div class="form-item">
-														<input type="password" placeholder="Email Address">
-													</div>
-													<div class="human-verification text-left">
-														<input type="checkbox" id="alt-imnotarobot">
-														<label for="alt-imnotarobot">I'm not a robot</label>
-														<span class="verification-image">
-															<img src="assets/images/iamnotrobot.png" alt="Image_not_found">
-														</span>
-													</div>
-													<button type="submit" class="login-btn">login now</button>
-												</form>
-											</div>
-
-											<div class="bottom-text white-color">
-												<p class="m-0">
-													* Denotes mandatory field.
-												</p>
-												<p class="m-0">** At least one telephone number is required.</p>
-											</div>
-
-										</div>
-										<!-- rightside-content - end -->
-
-										<a class="popup-modal-dismiss" href="#!">
-											<i class="fas fa-times"></i>
-										</a>
-
-									</div>
-								</div>
-							</li>
-							<li>
-								<a href="#alt-login-modal" class="login-modal-btn">
-									Login
-								</a>
-								<div id="alt-login-modal" class="reglog-modal-wrapper mfp-hide clearfix" style="background-image: url(assets/images/login-modal-bg.jpg);">
-									<div class="overlay-black clearfix">
-
-										<!-- leftside-content - start -->
-										<div class="leftside-content">
-											<div class="site-logo-wrapper mb-80">
-												<a href="#!" class="logo">
-													<img src="assets/images/golibe-3.png" alt="logo_not_found">
-												</a>
-											</div>
-											<div class="register-login-link mb-80">
-												<ul>
-													<li class="active"><a href="#!">Login</a></li>
-													<li><a href="#!">Register</a></li>
-												</ul>
-											</div>
-											<div class="copyright-text">
-												<p class="m-0">©2018 <a href="#!" class="yellow-color">golibefestival.com</a> all right reserved <i class="fas fa-heart"></i> Golibe Festival </p>
-											</div>
-										</div>
-										<!-- leftside-content - end -->
-
-										<!-- rightside-content - start -->
-										<div class="rightside-content text-center">
-
-											<div class="mb-30">
-												<h2 class="form-title title-large white-color">Account <strong>Login</strong></h2>
-												<span class="form-subtitle white-color">Login to our website, or <strong>REGISTER</strong></span>
-											</div>
-
-											<div class="fb-login-btn mb-30">
-												<a href="#!">
-													<span class="icon">
-														<i class="fab fa-facebook-f"></i>
-													</span>
-													login with facebook
-												</a>
-											</div>
-
-											<div class="or-text mb-30">
-												<span>or sign in</span>
-											</div>
-
-											<div class="login-form text-center mb-50">
-												<form action="#!">
-													<div class="form-item">
-														<input type="email" placeholder="example@gmail.com">
-													</div>
-													<div class="form-item">
-														<input type="password" placeholder="Password">
-													</div>
-													<button type="submit" class="login-btn">login now</button>
-												</form>
-											</div>
-
-											<div class="bottom-text white-color">
-												<p class="m-0">
-													* Denotes mandatory field.
-												</p>
-												<p class="m-0">** At least one telephone number is required.</p>
-											</div>
-
-										</div>
-										<!-- rightside-content - end -->
-
-										<a class="popup-modal-dismiss" href="#!">
-											<i class="fas fa-times"></i>
-										</a>
-
-									</div>
-								</div>
-							</li>
-
-						</ul>
-					</div>
-					<!-- login-btn-group - end -->
 
 
 					<!-- social-links - start -->
@@ -420,7 +260,8 @@
 										<ul class="countdown-list" data-countdown="2018/12/24"></ul>
 									</div>
 									<span class="date">24 december 2018</span>
-									<strong class="bold-text">GOLIBE FESTIVAL</strong>
+									<strong class="bold-text">GOLIBE FESTIVAL 2018</strong>
+									<strong class="small-bold-text">"THE MADIEN EDITION"</strong>
 									<a href="#!" class="details-btn">About Golibe</a>
 									<a href="#!" class="details-btn">events</a>
 									<a href="#!" class="details-btn">venues</a>
@@ -446,7 +287,8 @@
 													<ul class="countdown-list" data-countdown="2018/12/24"></ul>
 												</div>
 												<span class="date">24 december 2018</span>
-												<strong class="bold-text">GOLIBE FESTIVAL</strong>
+												<strong class="bold-text">GOLIBE FESTIVAL 2018</strong>
+												<strong class="small-bold-text">"THE MADIEN EDITION"</strong>
 												<a href="#!" class="details-btn">About us</a>
 												<a href="#!" class="details-btn">Venues</a>
 												<a href="#!" class="details-btn">Transport/Accommodation</a>
@@ -485,9 +327,20 @@
 				<div class="mb-50">
 					<div class="row">
 
+						<!-- section-title - start -->
+						<div class="col-lg-6 col-md-12 col-sm-12">
+							<div class="section-title text-right">
+								<span class="line-style"></span>
+								<small class="sub-title">welcome to</small>
+								<h3 class="big-title"><strong>GOLIBE</strong> FESTIVAL</h3>
+								<small class="sub-title" style="color: black;"><strong>The Maiden Edition</strong></small>
+							</div>
+						</div>
+						<!-- section-title - end -->
+
 						<!-- section-pragraph - start -->
 						<div class="col-lg-6 col-md-12 col-sm-12">
-							<div class="section-pragraph text-right">
+							<div class="section-pragraph text-left">
 								<p>
 									The Golibe Festival Onitsha is a program of the Onitsha 21st Century Project which targets to leverage our rich cultural heritage to transform Onitsha into a prefered destination for culture, tourism and a hub for modern day commerce and innovation.
 								</p>
@@ -495,15 +348,7 @@
 						</div>
 						<!-- section-pragraph - end -->
 
-						<!-- section-title - start -->
-						<div class="col-lg-6 col-md-12 col-sm-12">
-							<div class="section-title text-left">
-								<span class="line-style"></span>
-								<small class="sub-title">welcome to</small>
-								<h2 class="big-title"><strong>GOLIBE</strong> FESTIVAL</h2>
-							</div>
-						</div>
-						<!-- section-title - end -->
+						
 
 					</div>
 				</div>
@@ -511,62 +356,15 @@
 				<h1 class="big-title text-center" ><strong>GOLIBE EVENTS</strong></h1>
 				<div class="services-list">
 					<ul>
-
 						<li>
 							<a href="#!">
 								<span class="icon">
-									<img src="assets/images/icons/choral.png">
+									<img src="assets/images/icons/concert.png">
 								</span>
-								<strong class="title-text">Onitsha Symphony</strong>
-								<small class="sub-title">you can't miss this</small>
+								<strong class="title-text">A Night With The Stars</strong>
+								<small class="sub-title">Music Performance</small>
 							</a>
 						</li>
-
-						<li>
-							<a href="#!">
-								<span class="icon">
-									<img src="assets/images/icons/carosel.png">
-								</span>
-								<strong class="title-text">Golibe Dreamland</strong>
-								<small class="sub-title">great packages for your kids</small>
-							</a>
-						</li>
-						<li>
-							<a href="#!">
-								<span class="icon">
-									<img src="assets/images/icons/art-expo.png">
-								</span>
-								<strong class="title-text">Art Exhibition</strong>
-							</a>
-						</li>
-						<li>
-							<a href="#!">
-								<span class="icon">
-									<img src="assets/images/icons/art-expo.png">
-								</span>
-								<strong class="title-text">Art Exhibition</strong>
-							</a>
-						</li>
-						<li>
-							<a href="#!">
-								<span class="icon">
-									<img src="assets/images/icons/art-expo.png">
-								</span>
-								<strong class="title-text">Art Exhibition</strong>
-							</a>
-						</li>
-
-
-						<li>
-							<a href="#!">
-								<span class="icon">
-									<img src="assets/images/icons/ball.ico">
-								</span>
-								<strong class="title-text">Unity Match</strong>
-								<small class="sub-title">Golibe footbal Competition</small>
-							</a>
-						</li>
-
 						<li>
 							<a href="#!">
 								<span class="icon">
@@ -579,20 +377,68 @@
 						<li>
 							<a href="#!">
 								<span class="icon">
-								 <img src="assets/images/icons/carniva.svg">
+									<img src="assets/images/icons/carosel.png">
 								</span>
-								<strong class="title-text">Golibe Street Fiesta</strong>
-								<small class="sub-title">Golibe Carnival</small>
+								<strong class="title-text">Golibe Dreamland</strong>
+								<small class="sub-title">great packages for your kids</small>
+							</a>
+						</li>
+						<li>
+							<a href="#!">
+								<span class="icon">
+									<img src="assets/images/icons/choral.png">
+								</span>
+								<strong class="title-text">Onitsha Rendition</strong>
+								<small class="sub-title">you can't miss this</small>
 							</a>
 						</li>
 
 						<li>
 							<a href="#!">
 								<span class="icon">
-									<img src="assets/images/icons/concert.png">
+									<img src="assets/images/icons/ball.ico">
 								</span>
-								<strong class="title-text">A Night With The Stars</strong>
-								<small class="sub-title">Music Performance</small>
+								<strong class="title-text">Unity Match</strong>
+								<small class="sub-title">Village Match</small>
+							</a>
+						</li>
+						<li>
+							<a href="#!">
+								<span class="icon">
+									<img src="assets/images/icons/art-expo.png">
+								</span>
+								<strong class="title-text">Art Exhibition</strong>
+							</a>
+						</li>
+						<li>
+							<a href="#!">
+								<span class="icon">
+									<img src="assets/images/icons/graduation-cap.png">
+								</span>
+								<strong class="title-text">Gastronomy & Scholarship</strong>
+								<small class="sub-title"></small>
+							</a>
+						</li>
+						<li>
+							<a href="#!">
+								<span class="icon">
+									<img src="assets/images/icons/pageant.jpg">
+								</span>
+								<strong class="title-text">Face of Gollibe Pageant</strong>
+								<small class="sub-title">Mr & Mrs Golibe</small>
+							</a>
+						</li>
+
+						
+
+						
+						<li>
+							<a href="#!">
+								<span class="icon">
+								 <img src="assets/images/icons/carniva.svg">
+								</span>
+								<strong class="title-text">Golibe Street Fiesta</strong>
+								<small class="sub-title">Golibe Carnival</small>
 							</a>
 						</li>
 
@@ -738,9 +584,9 @@
 				<!-- section-title - end -->
 			<div class="container">
 				<div class="owl-carousel owl-theme">
-					<div class="item"><h1>2</h1></div>
-					<div class="item"><h1>3</h1></div>
-					<div class="item"><h1>4</h1></div>
+					<div class="item"><img src="assets/images/Brands/kex.png"/></div>
+					<div class="item"><img src="assets/images/Brands/wme.png"/></div>
+					<!-- <div class="item"><h1>4</h1></div>
 					<div class="item"><h1>5</h1></div>
 					<div class="item"><h4>6</h4></div>
 					<div class="item"><h4>7</h4></div>
@@ -748,7 +594,7 @@
 					<div class="item"><h4>9</h4></div>
 					<div class="item"><h4>10</h4></div>
 					<div class="item"><h4>11</h4></div>
-					<div class="item"><h4>12</h4></div>
+					<div class="item"><h4>12</h4></div> -->
 				</div>
 			</div>
 		</section>

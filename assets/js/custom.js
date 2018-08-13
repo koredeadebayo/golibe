@@ -73,10 +73,11 @@
     var $this = $(this), finalDate = $(this).data('countdown');
     $this.countdown(finalDate, function(event) {
       var $this = $(this).html(event.strftime(''
-        + '<li class="timer-item days"><strong>%D</strong><small>days</small></li>'
-        + '<li class="timer-item hours"><strong>%H</strong><small>hours</small></li>'
-        + '<li class="timer-item mins"><strong>%M</strong><small>mins</small></li>'
-        + '<li class="timer-item seco"><strong>%S</strong><small>seco</small></li>'));
+        + '<li class="timer-item days"><strong>%D</strong><small>days to go</small></li>'
+        // + '<li class="timer-item hours"><strong>%H</strong><small>hours</small></li>'
+        // + '<li class="timer-item mins"><strong>%M</strong><small>mins</small></li>'
+        // + '<li class="timer-item seco"><strong>%S</strong><small>seco</small></li>'
+      ));
     });
   });
 
