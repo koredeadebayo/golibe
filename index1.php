@@ -729,7 +729,8 @@
 				</div>
 
 			</div>
-		</section>		<section id="sponsor-section2" class="sponsor-section2  sec-ptb-100 clearfix">
+		</section>
+		<section id="sponsor-section2" class="sponsor-section2  sec-ptb-100 clearfix">
 			<!-- section-title - start -->
 			<div class="section-title text-center mb-80">
 					<h2 class="big-title"><strong>Our Sponsors</strong></h2>

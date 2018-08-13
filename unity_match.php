@@ -265,41 +265,52 @@
                         The 2018 edition will include post football event open musical performance at the 
                         arena and with at food &  drinks at the food courts also in the arena
                         </p>
-                        <ul class="about-info">
-                            <li>
-                                <span>Starting Date</span>
-                                <span class="date-r">1, December, 2018</span>
-                            </li>
-                            <li>
-                                <span>Closing Date</span>
-                                <span class="date-r">26, December, 2018</span>
-                            </li>
-                            <li>
-                                <span>Venue</span>
-                                <span class="date-r" style="padding-left: 130px !important;">Stadium</span>
-                            </li>
+                        <ul class="list-group about-info">
+                            <li class="list-group-item">Begins on : 1, December, 2018 </li>
+                            <li class="list-group-item">Closes on: 26, December, 2018 </li>
+                            <li class="list-group-item">Venue: The Stadium</li>
                         </ul>
                     </div>
+
                     <div class="col-md-6 col-sm-12">
                         <div class="text-center">
-                         <h2 class="text-center">Footballer's picture</h2>
+                         <h2 class="text-center hidden-xs">Footballer's picture</h2>
                         </div> 
                     </div>                
                 </div>  
             </div>
+        </section>
             
+        <section id="aboutcontent2" class="aboutcontent2 sec-ptb-100 clearfix">
             <div class="container">
-                <div class = "row" >
-                   <div class="col-md-12 col-sm-12">
-                   <div>
-                        <h2 class="text-center" >Price to be won</h2>
-                   </div>
-                    <div class = "price-box">
+            <h1 class="text-center">Prices</h1>
+                <div class="row">
+                    <div class="col-sm-4 col-md-4">
+                        <div class="thumbnail text-center">
+                            <i class="fas fa-trophy price1"></i>
+                            <div class="caption">
+                                <h3>First Place</h3>
+                                <p>...</p>
+                            </div>
+                        </div>
                     </div>
-                    <div class = "price-box">
+                    <div class="col-sm-6 col-md-4">
+                        <div class="thumbnail text-center">
+                            <i class="fas fa-trophy price2"></i>
+                            <div class="caption">
+                                <h3>Second Place</h3>
+                                <p>...</p>
+                            </div>
+                        </div>
                     </div>
-                    <div class = "price-box">
-                    </div>
+                    <div class="col-sm-6 col-md-4">
+                        <div class="thumbnail text-center">
+                            <i class="fas fa-trophy price3"></i>
+                            <div class="caption">
+                                <h3>Third Place</h3>
+                                <p>...</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
