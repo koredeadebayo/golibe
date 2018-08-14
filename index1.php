@@ -261,7 +261,7 @@
 									</div>
 									<span class="date">24 december 2018</span>
 									<strong class="bold-text">GOLIBE FESTIVAL 2018</strong>
-									<strong class="small-bold-text">"THE MADIEN EDITION"</strong>
+									<strong class="small-bold-text">"THE MAIDEN EDITION"</strong>
 									<a href="#!" class="details-btn">About Golibe</a>
 									<a href="#!" class="details-btn">events</a>
 									<a href="#!" class="details-btn">venues</a>
@@ -288,7 +288,7 @@
 												</div>
 												<span class="date">24 december 2018</span>
 												<strong class="bold-text">GOLIBE FESTIVAL 2018</strong>
-												<strong class="small-bold-text">"THE MADIEN EDITION"</strong>
+												<strong class="small-bold-text">"THE MAIDEN EDITION"</strong>
 												<a href="#!" class="details-btn">About us</a>
 												<a href="#!" class="details-btn">Venues</a>
 												<a href="#!" class="details-btn">Transport/Accommodation</a>
@@ -389,7 +389,7 @@
 									<img src="assets/images/icons/choral.png">
 								</span>
 								<strong class="title-text">Onitsha Rendition</strong>
-								<small class="sub-title">you can't miss this</small>
+								<small class="sub-title">Chrismas Carol</small>
 							</a>
 						</li>
 
@@ -413,16 +413,25 @@
 						<li>
 							<a href="#!">
 								<span class="icon">
-									<img src="assets/images/icons/graduation-cap.png">
+									<img src="assets/images/icons/cooking.png">
 								</span>
-								<strong class="title-text">Gastronomy & Scholarship</strong>
+								<strong class="title-text">Gastronomy </strong>
 								<small class="sub-title"></small>
 							</a>
 						</li>
 						<li>
 							<a href="#!">
 								<span class="icon">
-									<img src="assets/images/icons/pageant.jpg">
+									<img src="assets/images/icons/graduation-cap.png">
+								</span>
+								<strong class="title-text"> Give Back</strong>
+								<small class="sub-title"></small>
+							</a>
+						</li>
+						<li>
+							<a href="#!">
+								<span class="icon">
+									<img src="assets/images/icons/pageant.png">
 								</span>
 								<strong class="title-text">Face of Gollibe Pageant</strong>
 								<small class="sub-title">Mr & Mrs Golibe</small>
@@ -438,7 +447,7 @@
 								 <img src="assets/images/icons/carniva.svg">
 								</span>
 								<strong class="title-text">Golibe Street Fiesta</strong>
-								<small class="sub-title">Golibe Carnival</small>
+								<small class="sub-title"> Carnival</small>
 							</a>
 						</li>
 
@@ -547,7 +556,7 @@
 						<span>Golibe Festival</span>
 					</div>
 				</div>
-				<div class="grid-item photo-gallery " data-category="photo-gallery">
+				<!-- <div class="grid-item photo-gallery " data-category="photo-gallery">
 					<a class="popup-link" href="assets/images/gallery/a9.jpg">
 						<img src="assets/images/gallery/a9.jpg" alt="Image_not_found">
 					</a>
@@ -555,12 +564,21 @@
 						<h3>Golibe Experience</h3>
 						<span>Golibe Festival</span>
 					</div>
-				</div>
+				</div> -->
 
 
 				<div class="grid-item grid-item--width2 photo-gallery " data-category="photo-gallery">
 					<a class="popup-link" href="assets/images/gallery/a10.jpg">
 						<img src="assets/images/gallery/a10.jpg" alt="Image_not_found">
+					</a>
+					<div class="item-content">
+						<h3>Golibe Experience</h3>
+						<span>Golibe Festival</span>
+					</div>
+				</div>
+				<div class="grid-item photo-gallery " data-category="photo-gallery">
+					<a class="popup-link" href="assets/images/gallery/16.image.jpg">
+						<img src="assets/images/gallery/16.image.jpg" alt="Image_not_found">
 					</a>
 					<div class="item-content">
 						<h3>Golibe Experience</h3>
@@ -582,10 +600,10 @@
 					<h2 class="big-title"><strong>Our Sponsors</strong></h2>
 				</div>
 				<!-- section-title - end -->
-			<div class="container">
+			<!-- <div class="container">
 				<div class="owl-carousel owl-theme">
 					<div class="item"><img src="assets/images/Brands/kex.png"/></div>
-					<div class="item"><img src="assets/images/Brands/wme.png"/></div>
+					<div class="item"><img src="assets/images/Brands/wme.png"/></div> -->
 					<!-- <div class="item"><h1>4</h1></div>
 					<div class="item"><h1>5</h1></div>
 					<div class="item"><h4>6</h4></div>
@@ -595,8 +613,8 @@
 					<div class="item"><h4>10</h4></div>
 					<div class="item"><h4>11</h4></div>
 					<div class="item"><h4>12</h4></div> -->
-				</div>
-			</div>
+				<!-- </div>
+			</div> -->
 		</section>
 		<section id="event-gallery-section" class="event-gallery-section sec-ptb-100 clearfix">
 			<div class="container">
@@ -612,13 +630,13 @@
 							<div class="col-md-6">
 								<div class="form-item">
 									<label>Name</label>
-									<input type="name" placeholder="Osita Jude">
+									<input type="name" placeholder="Type in your name">
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="form-item">
 									<label>Email</label>
-									<input type="email" placeholder="jude@gmail.com">
+									<input type="email" placeholder="yourname@example.com">
 								</div>
 							</div>
 							<div class="col">

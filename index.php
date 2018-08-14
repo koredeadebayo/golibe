@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Page Title</title>
+    <title>Golibe Festival 2018</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="assets\css\bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="assets/css/fontawesome-all.css">
@@ -33,11 +33,11 @@
 <div class="container">
         <div class="row">
                 <div class="col-lg-4 col-md-8 col-sm-12" id="logo" style="text-align:center" >
-                <div class="countdown-timer mb-30" style="margin-top:20px">
-                        <ul class="countdown-list" data-countdown = "2018/12/31" style="margin:auto;">
+                <!-- <div class="countdown-timer mb-30" style="margin-top:20px">
+                        <ul class="countdown-list" data-countdown = "2018/12/24" style="margin:auto;">
                                 <li class="timer-item days">
                                         <strong id="day" >00</strong><small>days to go</small>
-                                </li>
+                                </li> -->
                                 <!-- <li class="timer-item hours">
                                         <strong id="hrs">00</strong><small>hours</small>
                                 </li>
@@ -47,8 +47,8 @@
                                 <li class="timer-item sec">
                                         <strong id="sec">00</strong><small>sec</small>
                                 </li> -->
-                        </ul>
-                </div>
+                        <!-- </ul>
+                </div> -->
 
                         <img src="assets\images\GOLIBE-LOGO.png" width="80%" height="auto" style="padding:50px; display: block; margin:auto;" />
                         <a class="enter-text" href="index1.php">Proceed to Site >>></a>
