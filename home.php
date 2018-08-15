@@ -342,7 +342,9 @@
 						<div class="col-lg-6 col-md-12 col-sm-12">
 							<div class="section-pragraph text-left">
 								<p>
-									The Golibe Festival Onitsha is a program of the Onitsha 21st Century Project which targets to leverage our rich cultural heritage to transform Onitsha into a prefered destination for culture, tourism and a hub for modern day commerce and innovation.
+									The Golibe Festival Onitsha is a program of the Onitsha 21st Century Project which targets to leverage
+									 our rich cultural heritage to transform Onitsha into a preferred destination for culture, tourism and
+									  a hub for modern day commerce and innovation.
 								</p>
 							</div>
 						</div>
@@ -357,7 +359,7 @@
 				<div class="services-list">
 					<ul>
 						<li>
-							<a href="#!">
+							<a href="concert.php">
 								<span class="icon">
 									<img src="assets/images/icons/concert.png">
 								</span>
@@ -366,7 +368,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="#!">
+							<a href="drama.php">
 								<span class="icon">
 									<img src="assets/images/icons/theater.png">
 								</span>
@@ -375,7 +377,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="#!">
+							<a href="dreamland.php">
 								<span class="icon">
 									<img src="assets/images/icons/carosel.png">
 								</span>
@@ -384,17 +386,17 @@
 							</a>
 						</li>
 						<li>
-							<a href="#!">
+							<a href="carol.php">
 								<span class="icon">
 									<img src="assets/images/icons/choral.png">
 								</span>
 								<strong class="title-text">Onitsha Rendition</strong>
-								<small class="sub-title">Chrismas Carol</small>
+								<small class="sub-title">Christmas Carol</small>
 							</a>
 						</li>
 
 						<li>
-							<a href="#!">
+							<a href="unity_match.php">
 								<span class="icon">
 									<img src="assets/images/icons/ball.ico">
 								</span>
@@ -403,7 +405,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="#!">
+							<a href="exhibition.php">
 								<span class="icon">
 									<img src="assets/images/icons/art-expo.png">
 								</span>
@@ -411,7 +413,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="#!">
+							<a href="cook.php">
 								<span class="icon">
 									<img src="assets/images/icons/cooking.png">
 								</span>
@@ -420,16 +422,16 @@
 							</a>
 						</li>
 						<li>
-							<a href="#!">
+							<a href="scholarship.php">
 								<span class="icon">
 									<img src="assets/images/icons/graduation-cap.png">
 								</span>
-								<strong class="title-text"> Give Back</strong>
+								<strong class="title-text">Scholarship</strong>
 								<small class="sub-title"></small>
 							</a>
 						</li>
 						<li>
-							<a href="#!">
+							<a href="pageant.php">
 								<span class="icon">
 									<img src="assets/images/icons/pageant.png">
 								</span>
@@ -442,7 +444,7 @@
 
 						
 						<li>
-							<a href="#!">
+							<a href="carnival.php">
 								<span class="icon">
 								 <img src="assets/images/icons/carniva.svg">
 								</span>

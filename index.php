@@ -51,7 +51,7 @@
                 </div> -->
 
                         <img src="assets\images\GOLIBE-LOGO.png" width="80%" height="auto" style="padding:50px; display: block; margin:auto;" />
-                        <a class="enter-text" href="index1.php">Proceed to Site >>></a>
+                        <a class="enter-text" href="home.php">Proceed to Site >>></a>
                 </div>
         <div> 
         </div>
