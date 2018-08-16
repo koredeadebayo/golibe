@@ -8317,7 +8317,7 @@ ul.about-info li:last-child {
   padding-top:40px;
   color: #CD7F32;
 }
-  
+
 .small-bold-text{
   width: 100%;
   display: table;
@@ -8325,7 +8325,7 @@ ul.about-info li:last-child {
   font-weight: 700;
   margin-bottom: 50px;
   color: #ffbe30;
-  font-family: "Roboto", sans-serif;  
+  font-family: "Roboto", sans-serif;
 }
 
 /* ==========================
@@ -8344,11 +8344,11 @@ ul.about-info li:last-child {
   -webkit-filter: none;
 }
 .img-caption{
-  position: absolute; 
-  bottom: 0; 
+  position: absolute;
+  bottom: 0;
   background: rgb(0, 0, 0);
   background: rgba(0, 0, 0, 0.5); /* Black see-through */
-  color: #f1f1f1; 
+  color: #f1f1f1;
   width: 90%;
   transition: .5s ease;
   opacity:0;
@@ -8388,4 +8388,46 @@ ul.about-info li:last-child {
 }
 .event-banner{
   min-height:300px;
+}
+/* ------ Gastronomy --*/
+.img-container {
+    background-color: rgba(220,220,220,1);
+    padding: 20px;
+}
+
+.img-container .dummy-img-content {
+    color: rgba(200,200,200,1);
+    padding: 20px;
+}
+
+.img-container .dummy-img-content .fas {font-size: 80px;}
+
+.gastronomy-img1 .caption h3 {
+    font-size: 15px;
+    margin: 0px;
+    color: #fff;
+}
+
+.gastronomy-img1 .caption p {
+    font-size: 15px;
+    margin: 0px;
+    color: #fff;
+}
+
+.gastronomy-img1 .img-container {
+    position:  relative;
+}
+
+.gastronomy-img1 .caption {
+    width: 100%;
+    position:  absolute;
+    bottom: 0px;
+    left: 0px;
+    padding: 5px;
+    background-color: rgba(0,0,0,0.5);
+    color: #fff;
+}
+.gastronomy-img2 .img-container {
+    min-height: 450px;
+    box-shadow: 0px 0px 0.5px 0.1px #000;
 }
