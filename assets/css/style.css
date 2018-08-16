@@ -8277,6 +8277,9 @@ Event -Unity Match
 }
 .about-info{
   padding-top:20px;
+  width: 70%;
+  margin: auto;
+  text-align: center;
 }
 ul.about-info li:first-child {
   border-top-left-radius: 2rem !important;
@@ -8290,7 +8293,7 @@ ul.about-info li:last-child {
     list-style-type: none;
     float: left;
     display: block;
-    font-size: 25px;
+    font-size: 20px;
     color: black;
   }
   ul.about-info li:hover{

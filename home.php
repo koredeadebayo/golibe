@@ -15,7 +15,7 @@
 									<div class="countdown-timer mb-30">
 										<ul class="countdown-list" data-countdown="2018/12/24"></ul>
 									</div>
-									<span class="date">24 december 2018</span>
+									<span class="date">24 december 2018 - 1 January 2019</span>
 									<strong class="bold-text">GOLIBE FESTIVAL 2018</strong>
 									<strong class="small-bold-text">"THE MAIDEN EDITION"</strong>
 									<a href="#!" class="details-btn">About Golibe</a>
@@ -42,7 +42,7 @@
 												<div class="countdown-timer mb-30">
 													<ul class="countdown-list" data-countdown="2018/12/24"></ul>
 												</div>
-												<span class="date">24 december 2018</span>
+												<span class="date">24 december 2018 - 1 January 2019</span>
 												<strong class="bold-text">GOLIBE FESTIVAL 2018</strong>
 												<strong class="small-bold-text">"THE MAIDEN EDITION"</strong>
 												<a href="#!" class="details-btn">About us</a>
@@ -138,7 +138,7 @@
 									<img src="assets/images/icons/carosel.png">
 								</span>
 								<strong class="title-text">Golibe Dreamland</strong>
-								<small class="sub-title">great packages for your kids</small>
+								<small class="sub-title">Children Games and Fun</small>
 							</a>
 						</li>
 						<li>
@@ -157,7 +157,7 @@
 									<img src="assets/images/icons/ball.ico">
 								</span>
 								<strong class="title-text">Unity Match</strong>
-								<small class="sub-title">Village Match</small>
+								<small class="sub-title">Village Football Match</small>
 							</a>
 						</li>
 						<li>

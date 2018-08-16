@@ -32,7 +32,8 @@
                     <p class="about-event">
                         The Fun Fair targeted at families and children and will open on 24th December to provide variety to the family
                          meetings on Christmas and will stay open till 1st January 2018.
-                        The Fun Fair will feature:
+                    </p>
+                        <!-- The Fun Fair will feature:
                         •Arcade games and entertainment for children & teens (bouncy castles, train rides, video games booth) 
                         •Competition element: video game tournament
                         •Video documentaries about Onitsha people, history, culture and traditions 
@@ -44,11 +45,11 @@
                         •Food & drinks court 
                         •Gifts for Children 
                         Competitions: video games, dance
-                    </p>
+                    -->
                     <ul class="list-group about-info text-center">
-                        <li class="list-group-item">Begins on : 1, December, 2018 </li>
-                        <li class="list-group-item">Closes on: 26, December, 2018 </li>
-                        <li class="list-group-item">Venue: The Stadium</li>
+                        <li class="list-group-item">Begins on : 24, December, 2018 </li>
+                        <li class="list-group-item">Closes on: 1, January, 2019 </li>
+                        <li class="list-group-item">Venue: Playground</li>
                     </ul>
                 </div>
             </div>
@@ -60,29 +61,46 @@
     ================================================== -->
     <section id="aboutcontent2" class="aboutcontent2 sec-ptb-100 clearfix">
         <div class="container">
-        <h1 class="text-center big-title"><strong style="font-size:30px;">STARRING ARTISTE</strong></h1>
+         <h1 class="text-center big-title"><strong style="font-size:30px;">FEATURING EVENT</strong></h1>
             <div class="row">
-                <div class="col-sm-6 col-md-3">
-                    <div class="thumbnail text-center thumb-image">
-                        <img class="" src="assets/images/golibe-2.jpg" alt="..."/>
-                        <div class="img-caption">
-                            <p>Image Matters</p>
+                <div class="col-sm-6 col-xs-12 col-md-3">
+                    <div class="thumbnail thumb-feature">
+                        <img class="feat-img" src="http://via.placeholder.com/300x300" alt="...">
+                        <div class="caption">
+                            <h4 class="text-center feat-head">Game Park</h4>
+                            <p style="text-align:justify;height: 40px;">Bouncy castles, Train rides, Video games booth, etc. </p>
+                            <p class="text-center small-btn-holder"><a href="#" class=" btn small-btn" role="button">Register</a></p>
                         </div>
-                </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="thumbnail text-center thumb-image">
-                        <img src="http://via.placeholder.com/350x400" alt="..."/>  
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="thumbnail text-center thumb-image">
-                        <img src="http://via.placeholder.com/350x400" alt="..."/>
+                <div class="col-sm-6 col-xs-12 col-md-3">
+                    <div class="thumbnail thumb-feature">
+                        <img class="feat-img" src="http://via.placeholder.com/300x300" alt="...">
+                        <div class="caption">
+                            <h4 class="text-center feat-head">Bootcamp</h4>
+                            <p style="text-align:justify; height: 30px;"></p>
+                            <p class="text-center small-btn-holder"><a href="#" class=" btn small-btn" role="button">Register</a></p>
+                        </div>
+                    </div>
+                </div>                
+                <div class="col-sm-12 col-xs-12 col-md-3">
+                    <div class="thumbnail thumb-feature">
+                        <img class="feat-img" src="http://via.placeholder.com/300x300" alt="...">
+                        <div class="caption">
+                            <h4 class="text-center feat-head">Family time</h4>
+                            <p style="text-align:justify;height: 30px;"> An opportunity to meet and greet the Agbogidi</p>
+                            <p class="text-center small-btn-holder"><a href="#" class=" btn small-btn" style="vertical-align:bottom" role="button">Register</a></p>
+                        </div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="thumbnail text-center thumb-image">
-                        <img src="http://via.placeholder.com/350x400" alt="..."/>
+                <div class="col-sm-6 col-xs-12 col-md-3">
+                    <div class="thumbnail thumb-feature">
+                        <img class="feat-img" src="http://via.placeholder.com/300x300" alt="...">
+                        <div class="caption">
+                            <h4 class="text-center feat-head">Food and Drinks Court</h4>
+                            <p style="text-align:justify; height: 30px;"></p>
+                            <p class="text-center small-btn-holder" ><a href="#" class=" btn small-btn" role="button">Register</a></p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -91,16 +109,7 @@
     <!-- Featuring Artiste content - end
     ================================================== -->
   
-        <!-- Ticket content - start
-    ================================================== -->
-    <section id="aboutcontent2" class="aboutcontent2 sec-ptb-100 clearfix">
-        <div class="container">
-        <hr/>
-        <button type="button" class="tick-btn">Get your Tickets</button>
-        </div>
-    </section>
-    <!-- Tickets content - end
-    ================================================== -->
+
 
 
 
