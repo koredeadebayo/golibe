@@ -8331,6 +8331,13 @@ ul.about-info li:last-child {
 /* ==========================
   Thumb Images
   =========================== */
+  .curve{
+			border-radius: 10px;
+			margin-top: 25px;
+			margin-right: auto;
+			display: block;
+			margin-left: auto;
+		}
 .thumb-image{
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
@@ -8356,6 +8363,7 @@ ul.about-info li:last-child {
   font-size: 20px;
   padding: 20px;
   text-align: center;
+
 }
 .thumb-image:hover .img-caption{
   opacity: 1;

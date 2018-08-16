@@ -142,6 +142,7 @@
 							items:5
 						}
 					}
+					
 				})
 			})
 						//default settings:
