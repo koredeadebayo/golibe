@@ -1,59 +1,64 @@
 <?php include("include/header.php"); ?>
-
+	<style type="text/css">
+		.curve{
+			border-radius: 10px;
+			margin-top: 25px;
+		}
+    </style>
 
 		<!-- Title header - start
 		================================================== -->
+	
 		<section id="titleheader2" class="titleheader2 sec-ptb-100 bg-gray-light clearfix">
 			<div class="container">
 
-				<div class="background-event">
-					<h2 class="text-center">Meet the Team</h2>  
+				<div class="background-event">  
 					<h2 class="text-center">Our Team</h2>  
 				</div>
-				
+				<h3 class="text-center">Meet the Team</h3>
 				<div class="row">
 					
 					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-						<picture>
-							<img src="assets/images/gallery/a9.jpg" alt="team member">
+						<picture class="curve">
+							<img src="assets/images/gallery/a9.jpg" alt="team member" class="curve">
 						</picture>
 					</div>
 					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
 						<picture>
-							<img src="assets/images/gallery/a9.jpg" alt="team member">
+							<img src="assets/images/gallery/a9.jpg" alt="team member" class ="curve">
 						</picture>
 					</div>
 					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
 						<picture>
-								<img src="assets/images/gallery/a9.jpg" alt="team member">
+								<img src="assets/images/gallery/a9.jpg" alt="team member" class ="curve">
 						</picture>
 					</div>
 					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
 						<picture>
-							<img src="assets/images/gallery/a9.jpg" alt="team member">
+							<img src="assets/images/gallery/a9.jpg" alt="team member" class ="curve">
 						</picture>
 					</div>	
 				</div>
 				<div class="row">
 					
 					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-						<picture>
-							<img src="assets/images/gallery/a9.jpg" alt="team member">
+						<picture >
+							<img src="assets/images/gallery/a9.jpg" alt="team member" class ="curve">
 						</picture>
 					</div>
 					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
 						<picture>
-							<img src="assets/images/gallery/a9.jpg" alt="team member">
+							<img src="assets/images/gallery/a9.jpg" alt="team member" class ="curve">
 						</picture>
 					</div>
 					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
 						<picture>
-							<img src="assets/images/gallery/a9.jpg" alt="team member">
+							<img src="assets/images/gallery/a9.jpg" alt="team member" class ="curve">
 						</picture>
 					</div>
 					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-						<picture>
-							<img src="assets/images/gallery/a9.jpg" alt="team member">
+						<picture >
+							<img src="assets/images/gallery/a9.jpg" alt="team member" class ="curve">
 						</picture>
 					</div>
 			</div>
