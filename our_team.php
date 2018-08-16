@@ -1,13 +1,13 @@
 <?php include("include/header.php"); ?>
 
-	
+
 		<!-- Title header - start
 		================================================== -->
 		<section id="titleheader2" class="titleheader2 sec-ptb-100 bg-gray-light clearfix">
 			<div class="container">
 
 				<div class="background-event">
-					<h2 class="text-center">Unity Match</h2>  
+					<h2 class="text-center">Our Team</h2>  
 				</div>
 			</div>
 		</section>
@@ -20,9 +20,9 @@
 				<div class="row">
                     <div class="col-md-6 col-sm-12">
                         <p class="about-event">
-                        The village football tournament has always been an annual event. 
+                        The village football tournament has always been an annual event.
                         It will commence on 1st December 2018 and run till the finale on 26th December 2018.
-                        The 2018 edition will include post football event open musical performance at the 
+                        The 2018 edition will include post football event open musical performance at the
                         arena and with at food &  drinks at the food courts also in the arena
                         </p>
                         <ul class="list-group about-info">
@@ -35,12 +35,12 @@
                     <div class="col-md-6 col-sm-12">
                         <div class="text-center">
                          <h2 class="text-center hidden-xs">Footballer's picture</h2>
-                        </div> 
-                    </div>                
-                </div>  
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
-            
+
         <section id="aboutcontent2" class="aboutcontent2 sec-ptb-100 clearfix">
             <div class="container">
             <h1 class="text-center">Prices</h1>

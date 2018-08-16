@@ -6,7 +6,7 @@
 			<div class="container">
 
 				<div class="background-event">
-					<h2 class="text-center">Gallery</h2>  
+					<h2 class="text-center">Gastronomy</h2>
 				</div>
 			</div>
 		</section>
@@ -19,15 +19,16 @@
 				<div class="row">
                     <div class="col-md-6 col-sm-12">
                         <p class="about-event">
-                        The village football tournament has always been an annual event.
-                        It will commence on 1st December 2018 and run till the finale on 26th December 2018.
-                        The 2018 edition will include post football event open musical performance at the
-                        arena and with at food &  drinks at the food courts also in the arena
+                          The festival will feature iconic Onitsha food including Nni-Oka,
+                          Ukpo-Ogede (Plantain pudding), and Ofe Nsala among other historical and modern cuisine.
+                          There will be local drinks like Omumu brew, a drink typically consumed during Ozo
+                          ceremonies, palm wine and other brews from other parts of Nigeria and beyond.
+                          Golibe Festival provides enormous opportunity for local and international foods and drinks
+                          companies to partner with the festival planning committee to create unique experience for
+                          guests. There will be provisions for food and drinks stall at strategic parts of the arena.
                         </p>
                         <ul class="list-group about-info">
-                            <li class="list-group-item">Begins on : 1, December, 2018 </li>
-                            <li class="list-group-item">Closes on: 26, December, 2018 </li>
-                            <li class="list-group-item">Venue: The Stadium</li>
+
                         </ul>
                     </div>
 
