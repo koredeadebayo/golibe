@@ -7,8 +7,54 @@
 			<div class="container">
 
 				<div class="background-event">
-					<h2 class="text-center">Unity Match</h2>  
+					<h2 class="text-center">Meet the Team</h2>  
 				</div>
+				
+				<div class="row">
+					
+					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+						<picture>
+							<img src="assets/images/gallery/a9.jpg" alt="team member">
+						</picture>
+					</div>
+					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+						<picture>
+							<img src="assets/images/gallery/a9.jpg" alt="team member">
+						</picture>
+					</div>
+					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+						<picture>
+								<img src="assets/images/gallery/a9.jpg" alt="team member">
+						</picture>
+					</div>
+					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+						<picture>
+							<img src="assets/images/gallery/a9.jpg" alt="team member">
+						</picture>
+					</div>	
+				</div>
+				<div class="row">
+					
+					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+						<picture>
+							<img src="assets/images/gallery/a9.jpg" alt="team member">
+						</picture>
+					</div>
+					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+						<picture>
+							<img src="assets/images/gallery/a9.jpg" alt="team member">
+						</picture>
+					</div>
+					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+						<picture>
+							<img src="assets/images/gallery/a9.jpg" alt="team member">
+						</picture>
+					</div>
+					<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+						<picture>
+							<img src="assets/images/gallery/a9.jpg" alt="team member">
+						</picture>
+					</div>
 			</div>
 		</section>
 		<!-- Title header - end
