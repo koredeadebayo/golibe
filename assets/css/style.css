@@ -8277,6 +8277,9 @@ Event -Unity Match
 }
 .about-info{
   padding-top:20px;
+  width: 70%;
+  margin: auto;
+  text-align: center;
 }
 ul.about-info li:first-child {
   border-top-left-radius: 2rem !important;
