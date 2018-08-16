@@ -70,7 +70,7 @@
 						<!-- site-logo-wrapper - start -->
 						<div class="col-lg-3">
 							<div class="site-logo-wrapper">
-								<a href="index-1.html" class="logo">
+								<a href="home.php" class="logo">
 									<img src="assets/images/golibe-logo2.png" alt="Golibe logo_not_found" title="Golibe Festival">
 								</a>
 							</div>

@@ -50,7 +50,7 @@
     ================================================== -->
     <section id="aboutcontent2" class="aboutcontent2 sec-ptb-100 clearfix">
         <div class="container">
-        <h1 class="text-center big-title"><strong style="font-size:30px;">STARRING ARTISTE</strong></h1>
+        <h1 class="text-center big-title"><strong style="font-size:30px;">STARRING ACT</strong></h1>
             <div class="row">
                 <div class="col-sm-6 col-md-3">
                     <div class="thumbnail text-center thumb-image">
@@ -83,12 +83,12 @@
   
         <!-- Ticket content - start
     ================================================== -->
-    <section id="aboutcontent2" class="aboutcontent2 sec-ptb-100 clearfix">
+    <!-- <section id="aboutcontent2" class="aboutcontent2 sec-ptb-100 clearfix">
         <div class="container">
         <hr/>
         <button type="button" class="tick-btn">Get your Tickets</button>
         </div>
-    </section>
+    </section> -->
     <!-- Tickets content - end
     ================================================== -->
 

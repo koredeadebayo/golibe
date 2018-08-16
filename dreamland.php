@@ -6,7 +6,7 @@
         <div class="container">
 
             <div class="background-event">
-                <h2 class="text-center">Golibe Funfair</h2>  
+                <h2 class="text-center">GOLIBE DREAMLAND</h2>  
             </div>
         </div>
     </section>
@@ -30,10 +30,20 @@
 
                 <div class="col-md-12 col-sm-12">
                     <p class="about-event">
-                    The Golibe Festival Committee is working with Terra Kulture,the most contemporary 
-                    Art and Drama Company in Nigeria, on an entertaining drama production that will 
-                    infuse elements of Onitsha, past, present and future and Onitsha in the 21st century
-                     vision into one of its world class productions.
+                        The Fun Fair targeted at families and children and will open on 24th December to provide variety to the family
+                         meetings on Christmas and will stay open till 1st January 2018.
+                        The Fun Fair will feature:
+                        •Arcade games and entertainment for children & teens (bouncy castles, train rides, video games booth) 
+                        •Competition element: video game tournament
+                        •Video documentaries about Onitsha people, history, culture and traditions 
+                        •Cultural dances 
+                        •Arts and crafts exhibition 
+                        •Master classes on food, drinks, cultural dance; 
+                        •State of the Nation discussions; 
+                        •Family time with the Obi; 
+                        •Food & drinks court 
+                        •Gifts for Children 
+                        Competitions: video games, dance
                     </p>
                     <ul class="list-group about-info text-center">
                         <li class="list-group-item">Begins on : 1, December, 2018 </li>
