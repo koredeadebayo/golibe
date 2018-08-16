@@ -111,7 +111,7 @@
 					</div>
 				</div>
 
-				<h1 class="big-title text-center" ><strong>GOLIBE EVENTS</strong></h1>
+				<h1 id="events" class="big-title text-center" ><strong>GOLIBE EVENTS</strong></h1>
 				<div class="services-list">
 					<ul>
 						<li>

@@ -86,13 +86,13 @@
 										<div class="menu-item-list ul-li clearfix">
 											<ul>
 												<li class="menu-item-has-children ">
-													<a href="#!">home</a>
+													<a href="home.php">home</a>
 												</li>
 												<li class="menu-item-has-children">
 													<a href="#!">about</a>
 												</li>
 												<li class="menu-item-has-children">
-													<a href="#!">events</a>
+													<a href="home.php#events">events</a>
 												</li>
 
 												<li>
@@ -102,7 +102,7 @@
 													<a href="#!">FAQs</a>
 												</li>
 												<li class="menu-item-has-children">
-													<a href="#!">Our Team</a>
+													<a href="our_team.php">Our Team</a>
 												</li>
 
 
@@ -177,7 +177,7 @@
 						<h2 class="menu-title">Menu</h2>
 						<ul>
 							<li>
-								<a href="index-1.html">
+								<a href="home.php">
 									<span class="icon"><i class="fas fa-home"></i></span>
 									Home
 								</a>
@@ -191,7 +191,7 @@
 					<div class="menu-link-list other-pages-links">
 						<ul>
 							<li>
-								<a href="#">
+								<a href="home.php#about-section2">
 									<span class="icon"><i class="fas fa-info-circle"></i></span>
 									About
 								</a>
@@ -218,7 +218,7 @@
 								</a>
 							</li>
 							<li>
-								<a href="#">
+								<a href="our_team.php">
 									<span class="icon"><i class="fas fa-users"></i></span>
 									Our Team
 								</a>
