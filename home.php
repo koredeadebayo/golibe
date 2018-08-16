@@ -138,7 +138,7 @@
 									<img src="assets/images/icons/carosel.png">
 								</span>
 								<strong class="title-text">Golibe Dreamland</strong>
-								<small class="sub-title">great packages for your kids</small>
+								<small class="sub-title">Children Games and Fun</small>
 							</a>
 						</li>
 						<li>
