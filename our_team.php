@@ -7,11 +7,8 @@
 			<div class="container">
 
 				<div class="background-event">
-<<<<<<< HEAD
 					<h2 class="text-center">Meet the Team</h2>  
-=======
 					<h2 class="text-center">Our Team</h2>  
->>>>>>> e6125ba8bdba4f41d05b0ca70f6a821f5f9a9ce0
 				</div>
 				
 				<div class="row">
