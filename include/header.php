@@ -99,7 +99,7 @@
 													<a href="#">gallery</a>
 												</li>
 												<li class="menu-item-has-children">
-													<a href="#!">FAQs</a>
+													<a href="FAQs.php">FAQs</a>
 												</li>
 												<li class="menu-item-has-children">
 													<a href="our_team.php">Our Team</a>
