@@ -106,7 +106,7 @@
 						</div>
 						<!-- section-pragraph - end -->
 
-						
+
 
 					</div>
 				</div>
@@ -196,9 +196,9 @@
 							</a>
 						</li>
 
-						
 
-						
+
+
 						<li>
 							<a href="carnival.php">
 								<span class="icon">
@@ -343,7 +343,6 @@
 						<span>Golibe Festival</span>
 					</div>
 				</div>
-			</footer>
 
 			</div>
 				<div class="text-center">
