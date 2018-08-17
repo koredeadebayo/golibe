@@ -6,7 +6,7 @@
 			<div class="container">
 
 				<div class="background-event">
-					<h2 class="text-center">Scholarship</h2>
+					<h2 class="text-center">FACE OF GOLIBE</h2>
 				</div>
 			</div>
 		</section>

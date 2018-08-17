@@ -169,7 +169,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="cook.php">
+							<a href="gastronomy.php">
 								<span class="icon">
 									<img src="assets/images/icons/cooking.png">
 								</span>
