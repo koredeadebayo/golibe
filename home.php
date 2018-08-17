@@ -106,7 +106,7 @@
 						</div>
 						<!-- section-pragraph - end -->
 
-						
+
 
 					</div>
 				</div>
@@ -169,7 +169,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="cook.php">
+							<a href="gastronomy.php">
 								<span class="icon">
 									<img src="assets/images/icons/cooking.png">
 								</span>
@@ -196,9 +196,9 @@
 							</a>
 						</li>
 
-						
 
-						
+
+
 						<li>
 							<a href="carnival.php">
 								<span class="icon">
@@ -343,7 +343,6 @@
 						<span>Golibe Festival</span>
 					</div>
 				</div>
-			</footer>
 
 			</div>
 				<div class="text-center">

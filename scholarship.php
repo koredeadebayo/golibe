@@ -6,7 +6,7 @@
 			<div class="container">
 
 				<div class="background-event">
-					<h2 class="text-center">Scholarship</h2>  
+					<h2 class="text-center">Scholarship</h2>
 				</div>
 			</div>
 		</section>
@@ -19,21 +19,21 @@
 				<div class="row">
                     <div class="col-md-6 col-sm-12">
                         <p class="about-event">
-                        The village football tournament has always been an annual event.
-                        It will commence on 1st December 2018 and run till the finale on 26th December 2018.
-                        The 2018 edition will include post football event open musical performance at the
-                        arena and with at food &  drinks at the food courts also in the arena
+                        The Golibe festival is a season of Joy, and beyond the festivities the organizers
+												of the festival and all the other partners would be delivering scholarships
+												to exceptional young people as regards their educational pursuit, this scholarship
+												would be made available to indigenes who are currently students in institution of higher learning.
                         </p>
                         <ul class="list-group about-info">
-                            <li class="list-group-item">Begins on : 1, December, 2018 </li>
-                            <li class="list-group-item">Closes on: 26, December, 2018 </li>
-                            <li class="list-group-item">Venue: The Stadium</li>
+                            <li class="list-group-item">Scholarship for student with good academic performance  </li>
+                            <li class="list-group-item">Scholarship awarded to indigent students </li>
+                            <li class="list-group-item">Scholarship awarded for inventions</li>
                         </ul>
                     </div>
 
-                    <div class="col-md-6 col-sm-12">
+                    <div class="col-md-6 col-sm-12 img-container">
                         <div class="text-center">
-                         <h2 class="text-center hidden-xs">Footballer's picture</h2>
+                         <h2 class="text-center hidden-xs dummy-img-content">Scholar</h2>
                         </div>
                     </div>
                 </div>
@@ -42,33 +42,22 @@
 
         <section id="aboutcontent2" class="aboutcontent2 sec-ptb-100 clearfix">
             <div class="container">
-            <h1 class="text-center">Prices</h1>
                 <div class="row">
-                    <div class="col-sm-4 col-md-4">
+                    <div class="col-sm-6 col-md-4 col-xs-12 img-container">
                         <div class="thumbnail text-center">
-                            <i class="fas fa-trophy price1"></i>
+                            <i class="fas fa-graduation-cap"></i>
                             <div class="caption">
-                                <h3>First Place</h3>
-                                <p>...</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-4">
+                    <div class="col-sm-6 col-md-4 col-xs-12 img-container">
                         <div class="thumbnail text-center">
-                            <i class="fas fa-trophy price2"></i>
-                            <div class="caption">
-                                <h3>Second Place</h3>
-                                <p>...</p>
-                            </div>
+                            <i class="fas fa-graduation-cap"></i>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-4">
+                    <div class="col-sm-6 col-md-4 col-xs-12 img-container">
                         <div class="thumbnail text-center">
-                            <i class="fas fa-trophy price3"></i>
-                            <div class="caption">
-                                <h3>Third Place</h3>
-                                <p>...</p>
-                            </div>
+                            <i class="fas fa-graduation-cap"></i>
                         </div>
                     </div>
                 </div>
