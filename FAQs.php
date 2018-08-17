@@ -10,36 +10,36 @@
 <div class="container">
 <hr>
     <div class="clip">
-        <p id="Question"><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus malesuada mauris nisi, eget condimentum dolor vehicula id. In hac habitasse platea dictumst. In molestie, ligula id</strong></p>
-        <p id="ans"><strong>Ans:</strong>Vivamus malesuada mauris nisi, eget condimentum</p>
+        <p class="big-title"><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus malesuada mauris nisi, eget condimentum dolor vehicula id. In hac habitasse platea dictumst. In molestie, ligula id</strong></p>
+        <p class="section-pragraph"><strong>Ans:</strong>Vivamus malesuada mauris nisi, eget condimentum</p>
     </div>
     <hr>
     <div class="clip">
-        <p id="Question"><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus malesuada mauris nisi, eget condimentum dolor vehicula id. In hac habitasse platea dictumst. In molestie, ligula id </strong></p>
-        <p id="ans"><strong>Ans:</strong>Vivamus malesuada mauris nisi, eget condimentum</p>
+        <p class="big-title"><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus malesuada mauris nisi, eget condimentum dolor vehicula id. In hac habitasse platea dictumst. In molestie, ligula id </strong></p>
+        <p class="section-pragraph"><strong>Ans:</strong>Vivamus malesuada mauris nisi, eget condimentum</p>
     </div>
     <hr>
     <div class="clip">
-        <p id="Question"><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus malesuada mauris nisi, eget condimentum dolor vehicula id. In hac habitasse platea dictumst. In molestie, ligula id</strong></p>
-        <p id="ans"><strong>Ans:</strong>Vivamus malesuada mauris nisi, eget condimentum</p>
+        <p class="big-title"><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus malesuada mauris nisi, eget condimentum dolor vehicula id. In hac habitasse platea dictumst. In molestie, ligula id</strong></p>
+        <p class="section-pragraph"><strong>Ans:</strong>Vivamus malesuada mauris nisi, eget condimentum</p>
     </div>
     <hr>
     <div class="clip">
-        <p id="Question"><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus malesuada mauris nisi, eget condimentum dolor vehicula id. In hac habitasse platea dictumst. In molestie, ligula id</strong></p>
-        <p id="ans"><strong>Ans:</strong>Vivamus malesuada mauris nisi, eget condimentum</p>
+        <p class="big-title"><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus malesuada mauris nisi, eget condimentum dolor vehicula id. In hac habitasse platea dictumst. In molestie, ligula id</strong></p>
+        <p class="section-pragraph"><strong>Ans:</strong>Vivamus malesuada mauris nisi, eget condimentum</p>
     </div>
     <hr>
     <div class="clip">
-        <p id="Question"><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus malesuada mauris nisi, eget condimentum dolor vehicula id. In hac habitasse platea dictumst. In molestie, ligula id </strong></p>
-        <p id="ans"><strong>Ans:</strong>Vivamus malesuada mauris nisi, eget condimentum</p>
+        <p class="big-title"><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus malesuada mauris nisi, eget condimentum dolor vehicula id. In hac habitasse platea dictumst. In molestie, ligula id </strong></p>
+        <p class="section-pragraph"><strong>Ans:</strong>Vivamus malesuada mauris nisi, eget condimentum</p>
     </div>
     <hr>
 </div>
 
 
 <div class="container">
-    <p id="Question">Can't find the answer you are looking for?</p>
-    <p>Send us the your question via text box below</p>
+    <p class="big-title">Can't find the answer you are looking for?</p>
+    <p>Send us the your big-title via text box below</p>
     <form action="mailto:Golibe@golibe.com" ectype="text/plain" method="post">
     <textarea name="complaint" id="complaint" cols="5" rows="10" class="message"></textarea>
     <input type="button" value="Submit" class="custom-btn" style="margin: 10px">
