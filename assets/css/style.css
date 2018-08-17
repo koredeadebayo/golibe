@@ -8330,10 +8330,28 @@ ul.about-info li:last-child {
   color: #ffbe30;
   font-family: "Roboto", sans-serif;
 }
+/*================faqs style======*/
+#Question{
+  font-family: Georgia;
+  font-size: 20px;
+}
+#ans{
+  font-family: Courier;
+  font-size: 15px;
+  font-style: italic;
+}
+.clip{
+  margin: 20px;
+}
+.message{
+  border: 1px solid yellow;
+  border-radius: 20px;
+}
 
 /* ==========================
   Thumb Images
   =========================== */
+ 
   .curve{
 			border-radius: 10px;
 			margin-top: 25px;
